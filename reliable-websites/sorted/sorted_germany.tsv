@@ -1,0 +1,107 @@
+is_primary_source	url	domain	reason	category-infection_status	category-orevention_and_state_of_emergency_declaration	category-symptoms_medical_treatment_tests_and_other_medical_information	category-economics_and_welfare_policy	category-school_operation_and_online_classes	category-entertainment_and_sports	category-false_rumours
+False	https://www.rki.de/DE/Home/homepage_node.html	www.rki.de	This is the website from the Germen Robert Koch Institut for virology.	True	True	True	False	True	False	False
+True	https://www.rki.de/DE/Home/homepage_node.html	www.rki.de	This is a page supported by the German government.	True	True	True	False	False	False	False
+True	https://www.rki.de/DE/Home/homepage_node.html	www.rki.de	The german Version of the CDC, daily updates on spread of the virus and possible treatments	True	True	True	False	False	False	False
+True	https://www.rki.de/DE/Home/homepage_node.html	www.rki.de	actualized on daily basis, renouned institute	True	False	True	False	False	False	True
+True	https://www.rki.de/DE/Home/homepage_node.html	www.rki.de	The Robert Koch Institute is a renowned intstitution in Germany when it comes to health, disease and preventing the spread of a virus.	True	True	True	False	False	False	False
+True	https://www.rki.de/DE/Home/homepage_node.html	www.rki.de	government website of professional researchers	True	False	False	True	False	False	False
+True	https://www.rki.de/DE/Home/homepage_node.html	www.rki.de	official health recource	True	True	True	False	False	False	False
+True	https://www.bundesgesundheitsministerium.de/coronavirus.html	www.bundesgesundheitsministerium.de	The page isn´t informative at all actually, but it´s trustful being host by the state of Germany	False	False	False	False	False	False	False
+True	https://www.bundesgesundheitsministerium.de/coronavirus.html	www.bundesgesundheitsministerium.de	The website is from the Interior Bureau, thus a governamental institution of high credibility.	True	True	True	True	False	False	True
+True	https://www.bundesgesundheitsministerium.de/coronavirus.html	www.bundesgesundheitsministerium.de	updated page by goverment	True	True	True	True	False	False	False
+False	https://www.bundesgesundheitsministerium.de/coronavirus.html	www.bundesgesundheitsministerium.de	This site is operated by the German Goverment and provides most information on and where you can find information about the coronavirus.	True	True	True	True	False	False	False
+False	https://www.bundesgesundheitsministerium.de/coronavirus.html	www.bundesgesundheitsministerium.de	it is a Government website and provides accurate info reg. the pandemic	False	False	True	False	False	False	False
+False	https://www.bundesgesundheitsministerium.de/coronavirus.html	www.bundesgesundheitsministerium.de	Government website	True	True	True	True	True	True	True
+False	https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html	www.rki.de	This site is operated by the leading institut for infectionprevention	True	True	True	False	False	False	False
+False	https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/	interaktiv.morgenpost.de	A major newspaper in the country and centralized much useful information in this page.	True	True	True	False	True	False	False
+True	https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html	www.rki.de	it's a well known virology research institute that also advises the government	True	True	True	False	False	False	False
+True	https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html	www.rki.de	This is an official government institute in Germany for healthcare and researching the virus.	True	True	True	True	True	False	True
+True	https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/	interaktiv.morgenpost.de	This is an updated hour by hour website for all the cases around the world.	True	False	False	False	False	False	False
+False	https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/	interaktiv.morgenpost.de	real data and not fake news	False	False	False	False	False	False	False
+True	https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/	interaktiv.morgenpost.de	It is a legit newspaper website which I highly trust	True	False	False	False	False	False	False
+False	https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html	www.rki.de	This is the website from the german Robert Koch Institut It is the main institute in Germany for virology	True	True	True	True	True	True	True
+True	https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/	interaktiv.morgenpost.de	This link gives exact status of the COVID-19 and better User Interface to see the status of the country.	True	False	False	False	False	False	False
+True	https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html	www.rki.de	This is an official website	True	True	True	False	False	False	False
+True	https://www.bundesregierung.de/breg-de/themen/coronavirus	www.bundesregierung.de	This is the Website of the German Government	True	True	False	True	True	False	False
+True	https://www.bundesregierung.de/breg-de/themen/coronavirus	www.bundesregierung.de	Government site	True	True	True	False	False	False	False
+True	https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html	www.rki.de	This is one of the most respected health organizations in Europe.	True	True	True	False	False	False	False
+True	https://www.who.int/ar/emergencies/diseases/novel-coronavirus-2019?gclid=CjwKCAjwwYP2BRBGEiwAkoBpAnsvaAhym8DlYrGrNucV8hqJaLt3AkSKTer_BR1IHCtkgLGsHSJUqBoCQcIQAvD_BwE	www.who.int	https://www.who.int/ar/emergencies/diseases/novel-coronavirus-2019?gclid=CjwKCAjwwYP2BRBGEiwAkoBpAnsvaAhym8DlYrGrNucV8hqJaLt3AkSKTer_BR1IHCtkgLGsHSJUqBoCQcIQAvD_BwE	True	False	False	False	False	False	False
+True	https://www.who.int/ar/emergencies/diseases/novel-coronavirus-2019?gclid=CjwKCAjwwYP2BRBGEiwAkoBpAnsvaAhym8DlYrGrNucV8hqJaLt3AkSKTer_BR1IHCtkgLGsHSJUqBoCQcIQAvD_BwE	www.who.int	https://www.who.int/ar/emergencies/diseases/novel-coronavirus-2019?gclid=CjwKCAjwwYP2BRBGEiwAkoBpAnsvaAhym8DlYrGrNucV8hqJaLt3AkSKTer_BR1IHCtkgLGsHSJUqBoCQcIQAvD_BwE	False	False	False	False	False	True	False
+True	https://www.who.int/ar/emergencies/diseases/novel-coronavirus-2019?gclid=CjwKCAjwwYP2BRBGEiwAkoBpAnsvaAhym8DlYrGrNucV8hqJaLt3AkSKTer_BR1IHCtkgLGsHSJUqBoCQcIQAvD_BwE	www.who.int	https://www.who.int/ar/emergencies/diseases/novel-coronavirus-2019?gclid=CjwKCAjwwYP2BRBGEiwAkoBpAnsvaAhym8DlYrGrNucV8hqJaLt3AkSKTer_BR1IHCtkgLGsHSJUqBoCQcIQAvD_BwE	True	False	False	False	False	False	False
+False	https://www.who.int/ar/emergencies/diseases/novel-coronavirus-2019?gclid=CjwKCAjwwYP2BRBGEiwAkoBpAnsvaAhym8DlYrGrNucV8hqJaLt3AkSKTer_BR1IHCtkgLGsHSJUqBoCQcIQAvD_BwE	www.who.int	https://www.who.int/ar/emergencies/diseases/novel-coronavirus-2019?gclid=CjwKCAjwwYP2BRBGEiwAkoBpAnsvaAhym8DlYrGrNucV8hqJaLt3AkSKTer_BR1IHCtkgLGsHSJUqBoCQcIQAvD_BwE	False	False	False	False	False	False	False
+False	https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Gesamt.html	www.rki.de	This is the official institute for the cases in Germany.	True	False	False	False	False	False	False
+False	https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html	www.rki.de	It is the main institute in germany mirroring the infection status	True	False	False	False	False	False	False
+True	https://www.worldometers.info/coronavirus/	www.worldometers.info	Looks like a collection from all the government announcement sites	True	True	True	False	True	False	True
+True	https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Gesamt.html	www.rki.de	The Robert Koch Institute (RKI) is the German federal government agency and research institute responsible for disease control and prevention.	True	True	True	True	False	False	True
+False	https://www.worldometers.info/coronavirus/	www.worldometers.info	Because they always update on time	True	True	False	False	False	False	False
+False	https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Gesamt.html	www.rki.de	Best instutuion to give precious information of COVID-19	True	True	True	False	False	False	False
+True	https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html	www.rki.de	It is the website of the leading research institution in the country in the field of virology/epidemology.	True	False	False	False	False	False	False
+False	https://www.worldometers.info/coronavirus/	www.worldometers.info	it takes info from the trusted resources and puts all data in one place to compare the situation in different countries, each resource can be checked	True	True	True	True	False	False	False
+True	https://www.bundesregierung.de/breg-de/themen/coronavirus	www.bundesregierung.de	Internet site of goverment	True	True	True	True	True	True	True
+True	https://www.worldometers.info/coronavirus/	www.worldometers.info	Non government site, but has all the stats for each country, regarding numbers infected, deaths etc - easy to view and understand	True	False	False	False	False	False	False
+True	https://www.bundesregierung.de/breg-de/themen/coronavirus	www.bundesregierung.de	This is a government page.	True	True	True	False	True	False	False
+True	https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Gesamt.html	www.rki.de	its the official info	True	True	True	False	False	False	False
+True	https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html	www.rki.de	robert koch institut	True	True	True	False	False	False	False
+True	https://www.who.int/	www.who.int	WHO is a trusted global entity that has no profit interest in spreading misinformation	True	True	True	False	False	False	True
+False	https://www.spiegel.de/thema/coronavirus/	www.spiegel.de	one of Germanys oldest weekly news Paper, quality journalism and fact checking	True	False	False	True	False	True	False
+False	https://www.spiegel.de/thema/coronavirus/	www.spiegel.de	Der Spiegel is one of the most influential magazines in Germany and is known for its investigative journalism.	True	True	True	True	True	True	True
+True	https://www.who.int/	www.who.int	To be able to prevent the disease, they have to give credible information about these topics	True	True	True	True	False	False	False
+True	https://www.who.int/	www.who.int	Because they are official	True	True	True	True	True	True	True
+False	https://www.spiegel.de/thema/coronavirus/	www.spiegel.de	Good news	True	True	False	True	False	True	False
+True	https://www.bundesregierung.de	www.bundesregierung.de	The government website here in Germany	True	True	True	True	False	False	False
+False	https://www.bbc.co.uk	www.bbc.co.uk	All round site, in English -regarding all situations news, sport, business - everything that is effected	True	True	True	True	True	True	True
+True	https://www.worldometers.info/coronavirus/?fbclid=IwAR1rp2R8kAAi-9yVmB-KIfS_4794x8t3SnfhLqBdTDvU15oHiSO4OOAs7qk	www.worldometers.info	It provides statistics	True	False	False	False	False	False	False
+False	https://www.nytimes.com/2020/05/13/world/coronavirus-world-news-updates.html	www.nytimes.com	I think this not contain too much fake news	False	False	True	False	False	False	False
+False	https://www.bundesregierung.de/breg-de/themen/coronavirus/coronavirus-aktuelle-informationen	www.bundesregierung.de	Its a goverment coordinated page	False	False	False	False	False	False	False
+True	https://www.who.int/emergencies/diseases/novel-coronavirus-2019	www.who.int	World Health Organization	True	True	True	True	False	False	False
+True	https://www.worldometers.info/coronavirus/?fbclid=IwAR1rp2R8kAAi-9yVmB-KIfS_4794x8t3SnfhLqBdTDvU15oHiSO4OOAs7qk	www.worldometers.info	It provides more or less believable information	True	True	False	True	False	False	False
+False	https://www.nytimes.com/2020/05/13/world/coronavirus-world-news-updates.html	www.nytimes.com	I think this not contain too much fake news	True	True	True	True	False	True	False
+True	https://www.bundesregierung.de/breg-de/themen/coronavirus/coronavirus-aktuelle-informationen	www.bundesregierung.de	it is the site of the government	True	True	True	False	False	False	False
+True	https://g.co/kgs/8QecQe	g.co	It contains all the statistics	True	False	True	False	True	False	False
+False	https://g.co/kgs/8QecQe	g.co	It contains all the statistics	False	False	True	False	True	False	True
+True	https://www.who.int/emergencies/diseases/novel-coronavirus-2019	www.who.int	this is an official webpage	True	True	True	True	False	False	False
+True	https://www.bundesregierung.de	www.bundesregierung.de	This is the German government website, I check it daily to see official updates to see where we are in this crazy time we are living in. It can be trusted more than other sites, as its directly from the government, so what they say gets reported.	True	True	True	True	True	False	True
+False	https://www.bbc.co.uk	www.bbc.co.uk	All round site, in English -regarding all situations news, sport, business - everything that is effected	True	True	True	True	False	True	False
+False	https://www.ndr.de/nachrichten/niedersachsen/Sieben-Corona-Infektionen-nach-Restaurantbesuch,corona3202.html	www.ndr.de	The page is okay	False	False	False	False	False	False	False
+False	https://edition.cnn.com/world/live-news/coronavirus-pandemic-05-27-20-intl/index.html	edition.cnn.com	CNN has proven itself to be a trustworthy news site.	True	True	False	True	False	False	False
+True	https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html	www.cdc.gov	government website	True	True	True	True	True	True	True
+False	https://www.berlin.de/corona/en/	www.berlin.de	government site	True	True	True	True	True	False	True
+True	https://www.rki.de/	www.rki.de	Its from a known institute and promoted in the news.	True	True	True	True	False	False	True
+False	https://www1.wdr.de/nachrichten/themen/coronavirus/ticker-corona-virus-nrw-100.html	www1.wdr.de	Its a offical newspaper.	True	True	True	True	True	True	True
+True	https://www.bundesgesundheitsministerium.de/english-version.html	www.bundesgesundheitsministerium.de	Government website	True	True	True	False	False	False	False
+True	https://www.bundestag.de	www.bundestag.de	Government website	True	True	True	True	True	True	True
+False	https://www.dw.com/en/top-stories/s-9097	www.dw.com	DW.com is one the trusted page in Germany and most of the information are genuine.	True	True	True	True	True	True	True
+True	https://www.reddit.com/t/coronavirus/	www.reddit.com	The users regulate each other and check the information for credibility	True	True	True	True	True	True	True
+False	https://www.bbc.com/news	www.bbc.com	I found that i can trust BBC in most if not all matters because their news seem well researched	True	True	True	True	True	True	True
+True	https://www.charite.de/	www.charite.de	its the page of the hospital that mainly works with the german goverment	True	False	False	False	False	False	False
+False	https://www.bbc.com/news/world-51235105	www.bbc.com	Trusted media	True	True	True	True	False	False	False
+False	https://www.infektionsschutz.de/coronavirus/	www.infektionsschutz.de	it's a government site	True	True	True	False	False	False	False
+True	https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjT8dSDhtLpAhWM16QKHVQaDbIQFjAdegQICxAB&url=https%3A%2F%2Fwww.deutschlandfunk.de%2Fcoronavirus-aktuelle-zahlen-und-entwicklungen.2897.de.html%3Fdram%3Aarticle_id%3D472799&usg=AOvVaw1dm6ZGoH6F238kpkvpmtCA	www.google.com	academic approach to the epidemiology	True	True	False	True	False	True	False
+False	https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwitxKfbhtLpAhXS5KQKHcXTBPgQFjAAegQIBxAC&url=https%3A%2F%2Fwww.dw.com%2Fen%2Ftop-stories%2Fcoronavirus%2Fs-32798&usg=AOvVaw1LGbnGQvXRPNP96C2KVtrK	www.google.com	very modern and specific approach	True	True	True	True	True	True	True
+False	https://www.nwzonline.de/region/im-nordwesten-land-will-schnelle-rueckkehr-zu-kita-regelbetrieb_a_50,8,1169048064.html	www.nwzonline.de	Regional newspaper who is known for relative objective journalism without political tendencies.	True	True	False	False	True	False	False
+False	https://coronavirus.app/map	coronavirus.app	most updated page worldwide	True	False	False	False	False	True	False
+False	https://www.zeit.de/index	www.zeit.de	favorite online newspaper, trustworthy authors and sources	True	True	False	True	False	True	True
+True	https://bnonews.com/?s=coronavirus	bnonews.com	BNO News is a news organization and the information is verified. They post a lot of information on their twitter account which i like to read: https://twitter.com/BNODesk	True	False	True	False	False	False	False
+True	https://coronavirus.jhu.edu/map.html	coronavirus.jhu.edu	real data and not fake news	True	False	False	False	False	False	False
+False	https://www.spiegel.de/	www.spiegel.de	Spiegel is one of the biggest news papers in germany and gives generally good information	True	False	True	True	True	True	True
+True	https://www.rki.de/EN/Home/homepage_node.html	www.rki.de	Official research center about the virus in Germany	True	True	True	False	False	False	False
+False	https://www.tagesschau.de/	www.tagesschau.de	The most popular news sources.	False	False	False	True	False	False	False
+False	https://m.tagesspiegel.de/wissen/coronavirus-pandemie-troepfchen-bleiben-nach-sprechen-minutenlang-in-der-luft-stehen/25560996.html	m.tagesspiegel.de	This newspaper give credible information about different aspects of the corona-virus	True	True	True	True	True	True	False
+True	https://www.infektionsschutz.de/coronavirus.html	www.infektionsschutz.de	It is the web page from german Center for health education	True	True	True	True	True	True	True
+True	https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html?nn=2386228	www.rki.de	I can trust this because it is the official institute that deals with infectious diseases in Germany.	True	True	True	False	False	False	True
+False	https://www.ecdc.europa.eu/en/covid-19-pandemic	www.ecdc.europa.eu	I trust this because it is the official site of the European Centre for Disease Prevention and Control.	True	True	False	True	False	False	False
+False	https://www.cnn.com/	www.cnn.com	official news channel	True	True	True	True	True	True	False
+False	https://www.rtl.de/	www.rtl.de	RTL is a TV channel that exists for now about 36 years in Germany. It is one of the biggest, most popular stations. On their website you can stay up-to-date with what happens in economics, new decisions made concerning welfare politics and also all news around entertainments and sports.	False	False	False	True	False	True	True
+False	https://www.faz.net/aktuell/gesellschaft/gesundheit/coronavirus/	www.faz.net	It's one of the leading newspapers/news sources in the country.	True	True	True	True	True	True	True
+False	https://interaktiv.tagesspiegel.de/lab/karte-sars-cov-2-in-deutschland-landkreise/	interaktiv.tagesspiegel.de	Information is presented in a clear manner plus the newspaper has a good reputation	True	False	False	False	False	False	False
+True	https://www.who.int	www.who.int	because its a World Health Organization which cares about peoples health and always says the truth	True	True	True	True	False	True	False
+False	https://www.tagesschau.de/newsticker/liveblog-coronavirus-dienstag-113.html	www.tagesschau.de	A trusted news page	True	True	True	True	True	True	False
+True	https://de.wikipedia.org/wiki/COVID-19	de.wikipedia.org	Because this page is very popular and i trust everything posted.	True	False	True	False	False	False	False
+False	https://www.dw.com/en/top-stories/coronavirus/s-32798	www.dw.com	I trust this page, because they always have true news.	True	True	True	True	True	True	False
+True	https://www.auswaertiges-amt.de	www.auswaertiges-amt.de	Also a goverment website giving information, regarding things as travel etc	True	True	False	True	False	False	False
+False	https://www.n-tv.de/	www.n-tv.de	same as above, a good alround site for information, this one in German	True	True	True	False	False	False	False
+False	https://www.euronews.com	www.euronews.com	More Europe scope of the Covid 19 issue - general news reports, sports and business	True	True	True	True	False	True	False
+False	https://www.zeit.de/wissen/gesundheit/coronavirus-echtzeit-karte-deutschland-landkreise-infektionen-ausbreitung	www.zeit.de	This is a German national newspaper and it provides very reliable statistics and graphs on Coronavirus.	True	True	False	False	False	False	False
+False	https://www.infektionsschutz.de/coronavirus/fragen-und-antworten.html	www.infektionsschutz.de	its the official information coming from the competent people I hope	True	True	False	False	False	False	False
+False	https://www.welt.de/	www.welt.de	history of liability	True	True	False	True	False	True	True
+False	https://www.zeit.de/thema/coronavirus	www.zeit.de	famous newspaper house	True	True	True	True	True	True	False

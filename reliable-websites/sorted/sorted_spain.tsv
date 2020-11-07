@@ -1,0 +1,127 @@
+is_primary_source	url	domain	reason	category-infection_status	category-orevention_and_state_of_emergency_declaration	category-symptoms_medical_treatment_tests_and_other_medical_information	category-economics_and_welfare_policy	category-school_operation_and_online_classes	category-entertainment_and_sports	category-false_rumours
+True	https://www.usa.gov/coronavirus	www.usa.gov	It is an official site	True	True	True	False	False	False	True
+True	https://www.usa.gov/coronavirus	www.usa.gov	is a govermment website	True	True	True	True	False	False	True
+True	https://www.usa.gov/coronavirus	www.usa.gov	https://www.usa.gov/coronavirus	True	False	False	True	True	False	False
+True	https://www.usa.gov/coronavirus	www.usa.gov	https://www.usa.gov/coronavirus	True	False	True	False	False	False	False
+True	https://www.usa.gov/coronavirus	www.usa.gov	https://www.usa.gov/coronavirus	True	True	True	False	False	False	False
+True	https://www.usa.gov/coronavirus	www.usa.gov	https://www.usa.gov/coronavirus	False	True	False	False	False	False	False
+True	https://www.usa.gov/coronavirus	www.usa.gov	https://www.usa.gov/coronavirus	False	False	True	False	False	False	False
+True	https://www.usa.gov/coronavirus	www.usa.gov	https://www.usa.gov/coronavirus	False	False	False	False	True	False	False
+False	https://www.usa.gov/coronavirus	www.usa.gov	https://www.usa.gov/coronavirus	False	True	False	False	False	True	False
+True	https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm	www.mscbs.gob.es	This site has information posted by the government	True	True	True	False	False	False	True
+True	https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm	www.mscbs.gob.es	This is the official government website, all this information is the one that is officially approved and contrasted by the government	True	True	True	True	True	True	False
+True	https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm	www.mscbs.gob.es	It is the official website of the government of Spain	True	True	True	True	True	False	False
+True	https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm	www.mscbs.gob.es	An 's' after 'http' and it´s suppose to be a governmental website.	True	False	False	False	False	False	False
+True	https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm	www.mscbs.gob.es	is from the governement	True	True	False	False	False	False	False
+True	https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm	www.mscbs.gob.es	It is the official page of the Health Ministry	True	True	True	False	False	False	False
+True	https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm	www.mscbs.gob.es	This is the site of the government of Spain.	True	True	True	False	True	False	False
+True	https://www.mscbs.gob.es/en/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm	www.mscbs.gob.es	Because this is the official website of the Ministry of Health in Spain, this link is in English so it´s specially for foreigners.	True	True	True	True	True	True	False
+True	https://www.mscbs.gob.es/en/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm	www.mscbs.gob.es	Official Webpage of spanish government	True	True	True	False	True	True	True
+True	https://www.mscbs.gob.es/en/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm	www.mscbs.gob.es	This was my most trustworthy source during the pandemic	True	True	False	True	False	False	False
+True	https://www.mscbs.gob.es/en/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm	www.mscbs.gob.es	It is the page of the Spanish Ministry of Health, if your own government lies to you, better find another country in which to live	True	True	True	False	False	False	False
+True	https://www.mscbs.gob.es/en/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm	www.mscbs.gob.es	It is official and trustable information. Advices, social services, health.	True	True	True	True	True	True	True
+True	https://www.mscbs.gob.es/en/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm	www.mscbs.gob.es	This is the government website.	True	True	True	True	False	True	False
+True	https://covid19.gob.es/	covid19.gob.es	This site is a governemet site	True	True	False	False	False	False	False
+True	https://covid19.gob.es/	covid19.gob.es	Because this is the official website of the spanish government for give all the official information about Covid.	True	True	True	True	True	False	True
+True	https://covid19.gob.es/	covid19.gob.es	This is the government web site.	True	True	True	True	True	True	True
+True	https://covid19.gob.es/	covid19.gob.es	This is our government website, and it has updated information and news about the pandemy	False	True	True	False	True	False	True
+True	https://www.elmundo.es/	www.elmundo.es	This site is a newspaper	True	True	True	True	True	True	False
+True	https://elpais.com/noticias/covid-19/	elpais.com	Here, in Spain el Pais is a well respectet newspaper and for this reason his website is consider a trustworthy one	True	True	True	False	False	False	True
+False	https://elpais.com/noticias/covid-19/	elpais.com	Good news without political trait.	True	True	True	True	True	False	True
+False	https://elpais.com/noticias/covid-19/	elpais.com	One of Spain's oldest newspapers that give up-to-date info	True	True	True	True	False	True	True
+False	https://www.elmundo.es/	www.elmundo.es	very important news company	True	True	True	True	True	True	True
+False	https://www.elmundo.es/	www.elmundo.es	The most credible newspaper to be updated	True	True	True	True	True	True	True
+False	https://www.lavanguardia.com/vida/20200514/481139249961/coronavirus-ultimas-noticias-y-datos-de-la-desescalada-en-espana-en-directo.html	www.lavanguardia.com	The most trusted and famous Spanish newspaper.	True	True	True	True	True	True	False
+True	https://www.who.int/emergencies/diseases/novel-coronavirus-2019	www.who.int	Is the top medical organization in the world	True	True	True	True	True	True	True
+True	https://cnecovid.isciii.es/	cnecovid.isciii.es	This site is the goverment web site	True	True	True	False	False	False	False
+True	https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm	www.mscbs.gob.es	This site is a governemet site	True	False	False	False	False	False	False
+False	https://www.20minutos.es/noticia/4255991/0/ultimas-noticias-coronavirus-desescalada-contagiados-muertos-recuperados/	www.20minutos.es	this site is one of the most reliable online newspapers in the country	True	True	False	False	False	False	False
+False	https://www.lavanguardia.com/vida/20200514/481139249961/coronavirus-ultimas-noticias-y-datos-de-la-desescalada-en-espana-en-directo.html	www.lavanguardia.com	Because is a trusted newspaper in spain.	False	True	False	True	False	False	False
+True	https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm	www.mscbs.gob.es	Official information site about Spain's pandemic. situation.	True	True	True	False	True	False	True
+False	https://www.elmundo.es/ciencia-y-salud/salud/2020/05/13/5ebb92dafc6c83cc038b4710.html	www.elmundo.es	The spanish newspaper "El Mundo" is well recognized in Spain for being objective and honest.	True	True	True	True	True	True	True
+True	https://cnecovid.isciii.es/covid19/	cnecovid.isciii.es	It seems that it complies with the legal regulation	True	True	True	False	False	False	False
+True	https://www.who.int/emergencies/diseases/novel-coronavirus-2019	www.who.int	It's the World Health Organization after all, I consider their information really helpful	True	True	True	False	False	False	False
+False	https://www.20minutos.es/noticia/4255991/0/ultimas-noticias-coronavirus-desescalada-contagiados-muertos-recuperados/	www.20minutos.es	is one of most trustable newspaper	True	True	False	True	False	False	False
+True	https://www.cdc.gov/	www.cdc.gov	Because it is a governamental website	True	True	True	False	False	False	False
+True	https://www.cdc.gov/	www.cdc.gov	Independent federal public health agency	True	True	True	True	False	False	False
+True	https://www.who.int/es	www.who.int	It is the official website of the World Health Organization. It contain everything about the desease.	True	True	True	False	False	False	False
+False	https://cnecovid.isciii.es/covid19/	cnecovid.isciii.es	It is a map from the Carlos III University which is following the disease like the John Hopkins in the USA	True	False	False	False	False	False	False
+False	https://www.who.int/es	www.who.int	It is the World Health Organization, there are no pharmaceutical companies lobbying, they do not depend on any particular government	True	True	True	False	False	False	True
+False	https://www.us.es/covid-19	www.us.es	{}	False	False	False	False	False	False	False
+False	https://www.us.es/covid-19	www.us.es	This is the portal enabled for covid in the University of Seville	False	False	False	True	True	False	False
+False	https://www.elmundo.es/ciencia-y-salud/salud/2020/05/13/5ebb92dafc6c83cc038b4710.html	www.elmundo.es	This is the most trusted news webpage of Spain.	True	False	False	True	False	True	False
+True	https://cnecovid.isciii.es/	cnecovid.isciii.es	It's the official webpage of the public institute that investigate all the covid-19 pandemy	True	True	True	False	False	False	False
+False	https://www.elmundo.es/e/co/coronavirus.html	www.elmundo.es	This site belongs to one of the biggest and most important newspapers	True	True	False	True	False	False	True
+True	https://www.barcelona.cat/covid19/es	www.barcelona.cat	This is the Barcelona city hall website.	True	True	True	False	True	True	False
+True	https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019	www.who.int	This is the website of The World Health Organization.	True	True	True	False	False	True	False
+True	https://www.worldometers.info/coronavirus/country/spain/	www.worldometers.info	This comes directly from the WHO, which oversees all countrries	True	False	False	False	False	False	False
+False	https://www.lavanguardia.com/	www.lavanguardia.com	This is the site I use to stay updated on all Spanish news	False	True	True	True	False	False	False
+False	https://www.redaccionmedica.com/directo/coronavirus-ultimas-noticias/20200515	www.redaccionmedica.com	They are medical journalist	True	True	True	True	True	True	True
+True	https://www.mscbs.gob.es	www.mscbs.gob.es	This site is the goverment web site	True	True	True	True	True	False	False
+False	https://news.un.org/en/story/2020/04/1061412	news.un.org	This site is operated by WHO	True	True	True	True	False	False	False
+True	https://www.comunidad.madrid/servicios/salud/covid-19-prevencion-consejos-ciudadania-preguntas-frecuentes	www.comunidad.madrid	This site is a governemet site	False	True	False	False	False	False	False
+True	https://coronavirus.frontiersin.org/	coronavirus.frontiersin.org	the page has a signed certificate, show information providing real persons. Seems very neutral	True	True	True	True	False	True	False
+False	https://www.who.int/	www.who.int	is from a prestige organization	True	True	True	True	True	True	True
+True	https://www.mscbs.gob.es/ssi/covid19/guia.htm	www.mscbs.gob.es	Because this is the goverment site.	False	True	False	False	False	False	False
+True	https://www.lamoncloa.gob.es/covid-19/Paginas/index.aspx	www.lamoncloa.gob.es	This also comes from the government. Contrasted and official information and updates.	True	True	True	True	True	True	False
+False	https://www.segurcaixaadeslas.es/es/landing-sitio/Paginas/coronavirus.html	www.segurcaixaadeslas.es	This is the mutual medical i always check.	False	True	True	False	False	False	False
+True	https://www.gov.uk/coronavirus	www.gov.uk	Official's UK gov site about coronavirus outbreak	True	True	True	True	False	False	True
+False	https://www.bbc.com/news/coronavirus	www.bbc.com	It is reliable press information.	True	True	True	True	False	False	True
+False	https://edition.cnn.com/world/live-news/coronavirus-pandemic-05-14-20-intl/index.html	edition.cnn.com	Updated information	True	True	True	True	False	False	True
+False	https://www.youtube.com/watch?v=w_Ma8oQLmSM	www.youtube.com	Live reliable information about the pandemic situation.	True	True	True	True	False	True	True
+False	https://www.elperiodico.com/es/buscador?query=coronavirus	www.elperiodico.com	The El Periodico is controlled by the most efficient agents of the country	True	True	True	False	False	False	True
+False	https://www.abc.es/sociedad/abci-coronavirus-espana-directo-madrid-preve-crear-equipos-rastreo-para-identificar-contactos-contagios-202005130616_directo.html?ref=https%3A%2F%2Fwww.google.com%2F	www.abc.es	Is the website for last minute news from the newspaper ABC that have a good national reputation.	True	True	False	True	False	True	False
+False	https://coronavirus.jhu.edu/	coronavirus.jhu.edu	its famous	False	True	True	True	False	False	False
+True	https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=11&cad=rja&uact=8&ved=2ahUKEwj2jeSx9LXpAhW66uAKHfvNB0sQFjAKegQIBRAB&url=https%3A%2F%2Felpais.com%2Fsociedad%2F2020-05-15%2Fultimas-noticias-del-coronavirus-en-espana-y-el-mundo-en-directo.html&usg=AOvVaw3PONAonAln_gKggcT6AQfv	www.google.com	is one of the most impartial journeys of Spain, keeps the spotlight on the matters, not on panic titles....	True	True	False	True	False	False	False
+False	https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwj_-uOA9bXpAhVB4eAKHa07BGMQjBAwAXoECAcQCA&url=https%3A%2F%2Fwww.mscbs.gob.es%2Fprofesionales%2FsaludPublica%2Fccayes%2FalertasActual%2FnCov-China%2FsituacionActual.htm&usg=AOvVaw0teYcJRw8p9mCvAqPAl8FM	www.google.com	this is the official authority in Spain which provides the rules in the street of how we should act in public about the virus and which are the emergency channels we can use in every case	True	True	True	False	True	False	False
+False	https://www.abc.es/sociedad/abci-coronavirus-espana-directo-eeuu-supera-84000-fallecidos-y-138-millones-contagios-202005140625_directo.html?ref=https%3A%2F%2Fwww.google.com%2F	www.abc.es	It is a very reliable newspaper in Spain	True	True	True	True	True	True	True
+True	https://www.lavanguardia.com/internacional/20200517/481205728131/brasil-coronavirus-jair-bolsonaro-espana-italia.html	www.lavanguardia.com	It's a newspaper online with new information	True	True	True	False	False	False	False
+False	https://www.comcadiz.es/comunicacion/noticias/preguntas-y-respuestas-sobre-el-nuevo-coronavirus-2019-2019-ncov	www.comcadiz.es	It's a great website where you can look for important information about COVID-19 in Spain	True	True	True	False	False	False	False
+False	https://afijub.es/wp-content/uploads/2016/12/recomendaciones-OMS_E_240220.pdf	afijub.es	It's is a PDF form the OMS	True	True	True	False	False	False	False
+True	https://www.lamoncloa.gob.es	www.lamoncloa.gob.es	this site is the oficial government page	True	True	True	True	True	True	True
+False	https://www.efe.com/efe/espana/1	www.efe.com	this site is operated by the most imprtant news agency in spain	True	True	True	True	True	True	True
+False	https://www.nytimes.com/news-event/coronavirus	www.nytimes.com	https://www.usa.gov/coronavirus	True	False	True	True	False	False	False
+False	https://www.redaccionmedica.com/directo/coronavirus-ultimas-noticias/20200513	www.redaccionmedica.com	It is a very prestigious website and it has a lot of reliability	True	True	True	False	False	False	False
+False	http://www.telemadrid.es/coronavirus-covid-19/webs-referencia-coronavirus-Madrid-0-2214678556--20200319062858.html	www.telemadrid.es	News webpage.	True	True	True	True	False	False	False
+True	https://www.worldometers.info/coronavirus/	www.worldometers.info	This page shows instantly cases of infectoon and recovered or deaths people	True	False	False	False	False	False	False
+False	https://www.newtral.es/los-datos-disponibles-en-tiempo-real-sobre-las-infecciones-y-muertes-por-coronavirus/20200129/	www.newtral.es	This site is famous in Spain and gives trusted information about the COVID-19	True	True	True	False	False	False	False
+False	https://edition.cnn.com/world/live-news/coronavirus-pandemic-05-16-20-intl/index.html	edition.cnn.com	It's the CNN, really helpful to have live updates so you can constantly get new information	True	True	True	True	False	True	False
+False	https://www.eldiario.es/temas/coronavirus/	www.eldiario.es	One of the most popular webs in Spain with complete information about all the topics related with covid-19	True	True	True	True	True	True	True
+False	https://www.ikerjimenez.com/	www.ikerjimenez.com	The most prestigious journalist in Spain specialized in covid-19 with very important scientific collaborators	True	True	True	True	True	True	True
+False	https://www.elespanol.com/	www.elespanol.com	Impartial information	True	True	True	True	True	True	True
+True	http://covid19info.live	covid19info.live	plenty of information from all countries	True	False	False	False	False	False	False
+False	http://www.abc.es	www.abc.es	well known newspaper	True	True	False	True	True	True	False
+False	https://www.mass.gov/resource/information-on-the-outbreak-of-coronavirus-disease-2019-covid-19	www.mass.gov	Because it is a governamental website	True	True	True	False	False	False	True
+True	https://www.mscbs.gob.es/sanidad/portada/home.htm	www.mscbs.gob.es	Is the Spanish healthcare service web.	True	True	True	False	True	False	True
+False	https://www.statnews.com/	www.statnews.com	Evidence-based, reliable journalism and reporting on COVID-19	True	True	True	True	False	False	False
+True	https://www.coronavirus.gov/	www.coronavirus.gov	Oh many experts who think on this website	True	False	False	False	False	False	False
+False	https://www.unicef.org/documents/monitoring-and-mitigating-secondary-impacts-coronavirus-disease-covid-19-pandemic-wash	www.unicef.org	Oh many experts who think on this website	True	True	False	False	False	False	False
+True	https://www.mscbs.gob.es/en/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm	www.mscbs.gob.es	This is the health department	True	True	True	False	False	False	True
+True	https://www.covid19.gob.es	www.covid19.gob.es	This is the Spanish government official website where you can find any information related with covid-19.	True	True	True	True	True	True	True
+False	https://www.who.int	www.who.int	This is the official website of the world health organization.	True	True	True	True	True	True	True
+True	https://www.who.int/es/	www.who.int	official pages gob.es or  newspapers	False	True	True	True	False	False	False
+False	https://www.rtve.es/noticias/	www.rtve.es	El mundo, El diario información, el país...	True	True	False	False	True	True	True
+False	https://www.elmundo.es/ciencia-y-salud/salud/2020/05/17/5ec0e035fc6c833c068b45e3.html	www.elmundo.es	This site is operated with one of the most trust news company in this country.	True	True	True	True	True	True	True
+True	https://elpais.com/	elpais.com	This site is the goverment site	True	True	True	True	True	True	True
+False	https://www.lasprovincias.es/	www.lasprovincias.es	This site has a fantastic chart with all the data constantly being updated and also gives my local news regarding the pandemic	True	False	False	False	False	False	False
+False	https://www.marca.com/tiramillas/actualidad/2020/05/14/5ebcc0cee2704ec4bb8b4623.html	www.marca.com	It is a sport magazine but they constantly update all the information in Spain about coronavirus	True	False	False	False	False	True	False
+False	https://coronavirus.jhu.edu/map.html	coronavirus.jhu.edu	This is the most well-known website about statistics, and has well reputation.	True	False	False	False	False	False	False
+False	http://www.educacionyfp.gob.es/portada.html	www.educacionyfp.gob.es	Official page about schools reopening	False	False	False	False	True	False	False
+False	https://administracion.gob.es/pag_Home/atencionCiudadana/Estado-de-alarma-crisis-sanitaria.html	administracion.gob.es	Official page of the state of emergency	False	True	False	False	False	False	False
+False	https://www.newtral.es/	www.newtral.es	they are dedicated to detecting fake news including those of the coronavirus, they put explanations made by medical professionals	False	False	False	False	False	False	True
+False	https://maldita.es/	maldita.es	they are dedicated exclusively to detecting fake news including those of the coronavirus, they put explanations made by medical professionals	False	False	False	False	False	False	True
+True	https://www.mscbs.gob.es/	www.mscbs.gob.es	It's the site of the Health Department	True	True	True	True	True	True	True
+False	https://nuevecuatrouno.com/2020/04/02/coronavirus-evaluacion-online-plataforma-pagina-web-servicio-riojano-salud/	nuevecuatrouno.com	It's a local newspaper that gives info about COVID in my area	True	False	False	False	False	False	False
+False	https://www.elmundo.es	www.elmundo.es	the news come straight from the official data	True	True	True	True	True	True	True
+False	https://www.elpais.es	www.elpais.es	the news come straight from the official data	True	True	True	True	True	True	True
+True	https://www.who.int/health-topics/coronavirus#tab=tab_1	www.who.int	one is due to the wide information that it provides and it has a large fame in the medical world so its information is trustful	True	True	True	False	False	False	False
+False	https://www.cdc.gov/coronavirus/2019-ncov/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2Findex.html	www.cdc.gov	it is one of the most renown name in the subject of diseases preventions and it has a large scale of experts that operates in this subjects so is one of the most reliable sites in coronavirus information	True	True	True	False	False	False	False
+False	https://www.elmundo.es/ciencia-y-salud.html?intcmp=MENUHOM01&s_kw=ciencia-y-salud	www.elmundo.es	This website if one of most important of news (newspaper) of spain	True	False	False	True	False	True	False
+True	https://web.gencat.cat/es/coronavirus?destacat=2	web.gencat.cat	this is the government coronavirus webpage	True	True	True	True	True	True	True
+False	https://www.elperiodico.com/es/temas/coronavirus-catalunya-43582	www.elperiodico.com	Trusted newspaper in spain	True	True	True	True	True	True	True
+True	https://es.noticias.yahoo.com/coronavirus-ultimas-noticias-alarma-internacional-virus-resumen-epidemia-010210354.html	es.noticias.yahoo.com	This is the government site	True	True	True	True	False	False	False
+False	https://www.youtube.com/user/ilyavarlamov	www.youtube.com	Journalist with reliable information and facts	True	True	True	True	True	True	True
+True	https://www.cdc.gov/coronavirus	www.cdc.gov	its for official information sharing point, its for get information very useful	True	True	True	True	True	True	False
+False	https://coronavirus.jhu.edu/covid-19-basics/understanding-covid-19	coronavirus.jhu.edu	its for good sharing message about covid-19	True	True	True	False	False	False	False
+True	https://maldita.es/malditobulo/	maldita.es	This site is from a news network (La Sexta)	False	False	False	False	False	False	True
+False	https://elpais.com/sociedad/2020/04/09/actualidad/1586437657_937910.html	elpais.com	Trusted news company	True	False	False	False	False	False	False

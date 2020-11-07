@@ -1,0 +1,105 @@
+is_primary_source	url	domain	reason	category-infection_status	category-orevention_and_state_of_emergency_declaration	category-symptoms_medical_treatment_tests_and_other_medical_information	category-economics_and_welfare_policy	category-school_operation_and_online_classes	category-entertainment_and_sports	category-false_rumours
+True	http://www.salute.gov.it/nuovocoronavirus	www.salute.gov.it	This is the governement web site	True	True	True	False	False	False	False
+True	http://www.salute.gov.it/nuovocoronavirus	www.salute.gov.it	this site is government web site.	True	True	True	True	True	True	False
+True	http://www.salute.gov.it/nuovocoronavirus	www.salute.gov.it	This site is the Italian government web site	True	True	True	False	False	False	False
+True	http://www.salute.gov.it/nuovocoronavirus	www.salute.gov.it	it's govern site	True	True	True	True	True	True	True
+True	http://www.salute.gov.it/nuovocoronavirus	www.salute.gov.it	Salute.gov.it	True	False	False	False	False	False	False
+True	http://www.salute.gov.it/nuovocoronavirus	www.salute.gov.it	This is the italian government web site	True	True	True	True	False	False	True
+True	http://www.salute.gov.it/nuovocoronavirus	www.salute.gov.it	the site is the official page of the Ministry of Health	False	False	False	False	False	False	False
+True	http://www.salute.gov.it/nuovocoronavirus	www.salute.gov.it	http://www.governo.it/it/faq-iorestoacasa	True	True	False	True	False	False	True
+True	http://www.salute.gov.it/nuovocoronavirus	www.salute.gov.it	this is a government site	True	True	True	False	False	False	False
+True	http://www.salute.gov.it/nuovocoronavirus	www.salute.gov.it	It's a governement website.	True	True	False	True	False	False	True
+True	http://www.salute.gov.it/nuovocoronavirus	www.salute.gov.it	This is the Italian daily general-interest newspaper.	True	True	False	False	True	False	False
+True	http://www.salute.gov.it/portale/home.html	www.salute.gov.it	I trust this page because it is the official italian government's health website, and it constantly updates notices about the general info about COVID-19	True	True	True	False	False	False	False
+True	http://www.salute.gov.it/portale/home.html	www.salute.gov.it	This is an other source of italian government. Similar to previous one, but there are more updates about infection status (in Italy and the world)	True	True	True	True	True	True	True
+True	http://www.salute.gov.it/portale/home.html	www.salute.gov.it	This is the government site	True	True	True	False	False	False	False
+True	http://www.salute.gov.it/portale/home.html	www.salute.gov.it	Is the official site for the Italian  Ministry of Health	True	True	False	True	False	False	False
+True	https://www.worldometers.info/coronavirus/	www.worldometers.info	Cites as a good source by many journalists. It cites its sources and they're all official.	True	False	True	False	False	False	False
+True	http://www.governo.it/it/coronavirus	www.governo.it	this is a site of the governement	True	True	True	False	False	False	False
+False	https://www.ansa.it/	www.ansa.it	It's an important agency of information.	True	True	True	True	False	False	True
+False	https://www.corriere.it/	www.corriere.it	This site is an online journal	True	True	True	True	True	True	False
+False	https://www.corriere.it/	www.corriere.it	It's one of the most important source of information for my country	False	False	False	False	False	False	False
+True	http://www.governo.it/it/coronavirus	www.governo.it	Government web site	True	True	True	True	False	False	False
+False	https://www.worldometers.info/coronavirus/	www.worldometers.info	This site is really accurate and trusted on statistics and updates	True	True	True	True	False	False	False
+False	https://www.repubblica.it/	www.repubblica.it	one of main italian newspaper	True	True	True	True	True	True	True
+True	http://www.governo.it/it/coronavirus	www.governo.it	{}	True	True	True	True	True	True	True
+True	https://www.usa.gov/coronavirus	www.usa.gov	I trust a government site on an emergency	True	True	True	False	False	False	False
+False	https://www.nytimes.com/news-event/coronavirus	www.nytimes.com	I trust this newspaper a lot, it has always been one of the most serious	False	True	True	True	False	False	True
+True	http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?area=nuovoCoronavirus&id=5351&lingua=italiano&menu=vuoto	www.salute.gov.it	it's the gov. portal, providing all relevant information	True	True	True	True	True	True	True
+False	https://www.repubblica.it/	www.repubblica.it	The biggest italian newspaper	False	False	False	True	True	False	False
+False	https://www.repubblica.it/	www.repubblica.it	this site is operated by one of the most trusted news company of italy	False	False	False	False	False	False	False
+True	http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?area=nuovoCoronavirus&id=5351&lingua=italiano&menu=vuoto	www.salute.gov.it	It's the official government account. It's updated every day by the government itself, it's clear and explains very well, it's up-to-date with all the decisions the government takes.	True	True	True	True	True	True	True
+True	https://www.usa.gov/coronavirus	www.usa.gov	This is theThis is the US government website that talks about the coronavirus government site	True	True	True	False	False	False	False
+False	https://www.nytimes.com/news-event/coronavirus	www.nytimes.com	is one of the best daily news in the world	True	False	False	True	False	True	True
+False	https://www.ansa.it/	www.ansa.it	I think it is one of the best news pages	True	True	False	True	True	False	True
+True	https://www.corriere.it/	www.corriere.it	this is the site of one of the most famous newspapers in Italy	True	True	False	False	False	True	False
+True	http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?area=nuovoCoronavirus&id=5351&lingua=italiano&menu=vuoto	www.salute.gov.it	this is the official website of health department of italy	True	True	True	True	True	True	True
+False	https://www.worldometers.info/coronavirus/	www.worldometers.info	Trusted website.	True	False	False	False	False	False	False
+False	https://www.ansa.it/	www.ansa.it	this site gives important information on Italian healthcare	True	True	True	False	False	False	False
+True	https://www.usa.gov/coronavirus	www.usa.gov	this site is the government response to the virus and this site describe very well the situation	False	True	False	True	True	False	False
+False	https://www.nytimes.com/news-event/coronavirus	www.nytimes.com	this site reports updates of the virus with an accurate description	True	True	False	True	False	False	False
+False	https://coronavirus.jhu.edu/map.html	coronavirus.jhu.edu	Started very early to collect data on the cases number worldwide	True	False	False	False	False	False	False
+False	http://www.governo.it/it/faq-iorestoacasa	www.governo.it	because it's the second page of the government from an economic point of view	True	True	False	True	True	True	False
+True	http://www.salute.gov.it/portale/nuovocoronavirus/homeNuovoCoronavirus.jsp	www.salute.gov.it	This is our  Ministry of Health official website	False	False	False	False	False	False	False
+True	https://coronavirus.jhu.edu/map.html	coronavirus.jhu.edu	This is the website of Johns Hopkins University	True	True	True	True	False	False	False
+False	https://lab24.ilsole24ore.com/coronavirus/	lab24.ilsole24ore.com	This is the principal web site of coronavirus in Italy, followed by all the italian citizens	True	True	False	True	False	False	False
+True	http://www.governo.it/it/faq-iorestoacasa	www.governo.it	http://www.salute.gov.it/covid-19	True	True	False	False	False	False	False
+False	https://www.ilmessaggero.it/italia/coronavirus_bollettino_oggi_contagi_morti_guariti_24_aprile_2020-5190273.html	www.ilmessaggero.it	https://www.corriere.it/salute/malattie_infettive/20_aprile_24/coronavirus-italia-192994-casi-positivi-25969-morti-bollettino-24-aprile-730f02ea-8641-11ea-9ac6-16666bda3d31.shtml	True	False	False	False	False	False	False
+False	https://www.medicalfacts.it/	www.medicalfacts.it	This site belongs to the most famous virologist in italy	True	True	True	False	False	False	True
+False	https://lab24.ilsole24ore.com/coronavirus/	lab24.ilsole24ore.com	great newspaper	False	False	False	False	False	False	False
+True	https://www.medicalfacts.it/	www.medicalfacts.it	because it is a page directed by an important Italian virologist	True	True	True	False	False	False	False
+False	http://www.salute.gov.it/portale/nuovocoronavirus/homeNuovoCoronavirus.jsp	www.salute.gov.it	Is the official coronavirus dedicated page from the Italian Health Ministry.	True	True	True	True	False	False	False
+False	https://www.ilmessaggero.it/italia/coronavirus_bollettino_oggi_contagi_morti_guariti_24_aprile_2020-5190273.html	www.ilmessaggero.it	it's an understandable and easy site	False	True	True	False	True	True	False
+False	https://www.corriere.it/salute/malattie_infettive/20_aprile_24/coronavirus-italia-192994-casi-positivi-25969-morti-bollettino-24-aprile-730f02ea-8641-11ea-9ac6-16666bda3d31.shtml	www.corriere.it	this is the website of the official newspaper if taly	True	True	True	True	True	True	True
+False	https://www.corriere.it/salute/malattie_infettive/20_aprile_24/coronavirus-italia-192994-casi-positivi-25969-morti-bollettino-24-aprile-730f02ea-8641-11ea-9ac6-16666bda3d31.shtml	www.corriere.it	The site gives important information about the number of infected, dead and asymptomatic people	True	False	False	False	False	False	False
+False	https://covid-19.aircode.it/d/dG6w7iXZk/covid-19-italia	covid-19.aircode.it	Stats made of official sources.	True	False	False	False	False	False	False
+False	https://www.tgcom24.mediaset.it/news-tag/coronavirus/	www.tgcom24.mediaset.it	this site is trusted by the community	True	True	True	True	True	True	True
+True	https://www.gov.uk/coronavirus-extremely-vulnerable	www.gov.uk	This is a government website	True	True	True	False	True	True	False
+False	https://www.globalcitizen.org/en/content/coronavirus-resources-for-reliable-information/	www.globalcitizen.org	This site is a newspaper so eversione can use it	True	True	True	True	False	False	False
+True	http://www.rainews.it/dl/rainews/redazioni/ContentSet-6e5f5453-f45b-4496-ae0f-cbd3838dfd09-0.html	www.rainews.it	Website of the State-run media channels (Rai Media/Rai News), with all latest relevant information.	True	True	False	True	True	True	False
+False	https://www.internazionale.it/tag/coronavirus	www.internazionale.it	This website collects and translates articles from news agencies and magazines from all ove rthe world. Has up-to-date news, but also long-form analysis articles. Most of my deeper information comes from here.	True	True	False	True	True	False	False
+True	https://www.mirror.co.uk	www.mirror.co.uk	It's a newspaper website so it doesn't just have information about the coronavirus	True	True	True	True	False	True	False
+False	https://www.worldometers.info/	www.worldometers.info	It's a very complete and up-to-date webpage	True	True	True	False	False	False	False
+True	http://www.salute.gov.it/nuovocoronavirus?gclid=CjwKCAjwnIr1BRAWEiwA6GpwNVWeJUEutpdRvDcXu_wvjwNaih16--0OGcJRm5wybCo-X2u4plB0bBoCxDkQAvD_BwE	www.salute.gov.it	the site is the government site	True	True	True	True	True	True	True
+False	https://www.rainews.it/ran24/speciali/2020/covid19/	www.rainews.it	this site is operated by one of the most trusted news company in this country	False	False	False	False	False	False	False
+True	http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioFaqNuovoCoronavirus.jsp?lingua=italiano&id=228	www.salute.gov.it	It is the italian health minister website	False	True	True	False	False	False	False
+True	https://www.regione.veneto.it/	www.regione.veneto.it	This is site is of the government regional	True	True	True	True	False	False	False
+True	https://www.worldometers.info/coronavirus/?fbclid=IwAR3AzHaSvpl5mL_Y-F9N9rLpZTXnspVzF7sdlsGuQ5EQHi5Myg5tnE77VJc	www.worldometers.info	this site has a worldwide importance	False	False	False	False	False	False	False
+False	https://www.repubblica.it/cronaca/2020/04/08/news/coronavirus_in_italia_contagi_morti_e_tutte_le_news_sulla_situazione-253428215/	www.repubblica.it	Well known newspaper	True	True	True	True	True	True	True
+True	https://www.who.int/emergencies/diseases/novel-coronavirus-2019	www.who.int	I place the utmost trust in health news on this site	True	True	True	True	False	False	False
+False	http://www.protezionecivile.gov.it/	www.protezionecivile.gov.it	This is the web site of the national body in Italy that deals with the prediction, prevention and management of emergency events	True	True	True	False	False	False	False
+True	http://www.governo.it/it/coronavirus-misure-del-governo	www.governo.it	Italian government web site	True	True	True	True	True	True	True
+False	https://www.corriere.it/argomento/virus-cina-coronavirus	www.corriere.it	I trust this page because it is a renomated italian news broadcaster which always publishes verified news.	True	True	True	True	True	True	False
+False	https://www.aslroma2.it/index.php/18-sito/662-info-coronavirus-covid-19	www.aslroma2.it	This is the roman ASL.	False	False	False	False	False	False	False
+False	https://www.epicentro.iss.it/coronavirus/	www.epicentro.iss.it	EpiCentro - was created in 2000 under the direction of the Epidemiology and Biostatistics Laboratory (Laboratorio di Epidemiologia e Biostatistica, LEB) of the Italian National Institute of Health (Istituto Superiore di Sanità, ISS) and is a tool for workers in public health to improve access to epidemiological information, derived from the National Health Service, via Internet. Its creation involved the participation of the departments and centres of the ISS in collaboration with Regional Health Authorities, Local Health Authorities, Research Institutes, Epidemiological Associations and individual workers in public health.     EpiCentro is now scientifically coordinated by the National Centre for Disease Prevention and Health Promotion (Centro Nazionale per la Preventione delle malattie e la Promozione della Salute, CNaPPS) of the ISS. For the presentation of the material, the site is assisted by Zadig, a scientific journalism agency.  Contact the production agency of the site EpiCentro.	True	True	True	False	False	False	False
+True	https://www.google.com/amp/s/www.open.online/2020/04/25/coronavirus-news-mondo-25-aprile/amp/	www.google.com	I tink that you have to put information in real time	True	True	False	True	False	False	False
+False	https://coronavirus.jhu.edu/	coronavirus.jhu.edu	I tink never of important	True	False	True	False	False	False	True
+True	http://www.governo.it/it/	www.governo.it	This is a source of italian government and there are many indications about what italians can do and can't do, according to the current provisions.	False	True	True	True	True	True	True
+False	https://www.corriere.it/speciale/esteri/2020/mappa-coronavirus/	www.corriere.it	Maps of infection status, developed by Johns Hopkins University in Maryland	True	False	False	False	False	False	False
+False	https://www.similarweb.com/coronavirus	www.similarweb.com	Good	False	False	True	False	False	False	False
+True	http://www.protezionecivile.gov.it/attivita-rischi/meteo-idro/attivita/previsione-prevenzione/centro-funzionale-centrale-rischio-meteo-idrogeologico/previsionale/bollettini-criticita/bollettino-odiernoG	www.protezionecivile.gov.it	Government	True	True	True	True	True	True	False
+False	https://www.ilmeteo.it/notizie/coronavirus-bollettino-aggiornato-i-morti-salgono-a-25969-420-contagiati-192994-3021	www.ilmeteo.it	Weather forecast	True	False	False	False	False	False	False
+False	https://web.uniroma2.it/module/name/PdnHome/newlang/italiano/navpath/C19	web.uniroma2.it	it's a major Italian university	True	True	True	False	False	False	False
+True	http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?area=nuovoCoronavirus&id=5364&lingua=italiano&menu=vuoto	www.salute.gov.it	because it is the official page of the minister and of health	True	False	True	False	False	False	False
+False	https://news.google.com/covid19/map?hl=it&gl=IT&ceid=IT:it	news.google.com	it shows how many people have been infected	True	False	False	False	False	False	False
+True	http://www.protezionecivile.gov.it/web/guest/media-comunicazione/comunicati-stampa	www.protezionecivile.gov.it	This is one of the most important institution of Italy, about prevention.	True	True	True	False	False	False	False
+True	http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioFaqNuovoCoronavirus.jsp?lingua=italiano&id=228&gclid=CjwKCAjwnIr1BRAWEiwA6GpwNaozyjXXrcuUKxPAGLDrpQKoMdyuEy0qlvqu9Kj92kiKM4rBWoTA5xoClLkQAvD_BwE	www.salute.gov.it	this site only contains official information approved by the Prime Minister and Italian ministers	True	True	True	True	True	True	True
+False	https://www.ilmessaggero.it/salute/focus/covid_19_italia_ultime_notizie_oggi_casi_24_aprile_2020_brusaferro_iss_donne_contagi-5189867.html	www.ilmessaggero.it	it seems to me a reliable site with truthful and reliable information	True	True	True	True	True	True	False
+False	https://tg24.sky.it/cronaca/2020/03/19/notizie-coronavirus-fonti-ufficiali.html	tg24.sky.it	For every kind of news in Italy I trust in this web site	True	True	True	True	True	True	True
+False	https://www.who.int/peh-emf/publications/italy_dis/en/	www.who.int	Is the site of the World Health Organization	True	True	True	False	False	False	False
+True	http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus	www.protezionecivile.gov.it	Goverment related site, state of emergency and health information	False	False	False	False	False	False	False
+False	https://www.ilsole24ore.com/art/coronavirus-dati-reali-e-fake-news-e-sole-24-ore-quotidiano-piu-affidabile-ADEVPMG	www.ilsole24ore.com	http://www.salute.gov.it/nuovocoronavirus?gclid=CjwKCAjwnIr1BRAWEiwA6GpwNcA40kGDN6Kxd8yf2moZkZcSgsnAl6Y57A7wnWa35D-g4Mb7LD4EGxoCCAEQAvD_BwE	True	False	False	True	False	False	True
+True	https://www.facebook.com/GiuseppeConte64/	www.facebook.com	It's the official Facebook page of the Prime Minister of Italy. He holds weekly live press conferences explaining the latest decisions taken by the government.	False	True	False	True	True	False	True
+False	https://www.ansa.it/canale_saluteebenessere/	www.ansa.it	This is an official news outlet that gathers its news from trusted sources, it's a constantly updated website which a lot of Italians rely on. It also has exclusive reports and interviews to important people.	True	True	True	False	True	False	True
+True	https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen	www.who.int	Part of the UN and specialized in public health	True	True	True	True	True	True	True
+False	https://www.bbc.com/news/coronavirus	www.bbc.com	I trust this news agency to give good and clear impartial news	True	True	True	True	True	True	True
+True	https://www.worldometers.info/coronavirus/country/italy/	www.worldometers.info	They always present their sources, which are trustworthy.	True	False	False	False	False	False	False
+True	https://www.ncbi.nlm.nih.gov/pubmed/	www.ncbi.nlm.nih.gov	A scientific papers site	False	False	True	False	False	False	False
+True	https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/summary.html	www.cdc.gov	This is a government website	True	True	True	True	True	True	False
+False	https://edition.cnn.com/	edition.cnn.com	This is one of most trusted news agency	True	True	True	True	True	True	True
+False	https://www.repubblica.it/argomenti/coronavirus?ref=RHHD-T	www.repubblica.it	This is a famous and respected italian newspaper.	True	True	True	True	True	True	True
+True	https://www.coronavirus.gov/	www.coronavirus.gov	It's a govern site	False	True	True	False	False	False	False
+False	https://www.fda.gov/emergency-preparedness-and-response/counterterrorism-and-emerging-threats/coronavirus-disease-2019-covid-19	www.fda.gov	It's a govern site	True	True	False	True	False	False	False
+True	https://www.miur.gov.it/	www.miur.gov.it	this is the site of the Italian ministry of education	False	False	False	False	True	False	False
+True	https://www.thelocal.it/tag/coronavirus	www.thelocal.it	English Website for Italian news	True	True	True	True	True	False	False
+False	http://www.rainews.it/ran24/speciali/2020/covid19/world.php	www.rainews.it	The national public broadcasting company of Italy.	True	False	False	False	False	False	False

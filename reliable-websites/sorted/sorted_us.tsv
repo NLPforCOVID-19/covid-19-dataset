@@ -1,0 +1,107 @@
+is_primary_source	url	domain	reason	category-infection_status	category-orevention_and_state_of_emergency_declaration	category-symptoms_medical_treatment_tests_and_other_medical_information	category-economics_and_welfare_policy	category-school_operation_and_online_classes	category-entertainment_and_sports	category-false_rumours
+True	https://www.cdc.gov/coronavirus/2019-ncov/index.html	www.cdc.gov	CDC guidelines	False	False	False	False	False	False	False
+True	https://www.cdc.gov/coronavirus/2019-ncov/index.html	www.cdc.gov	The CDC is a trustworthy source for all things medical.	True	True	True	True	True	True	True
+True	https://www.cdc.gov/coronavirus/2019-ncov/index.html	www.cdc.gov	The site is a government website, specifically the Center for Disease Control.	True	True	True	False	False	False	False
+True	https://www.cdc.gov/coronavirus/2019-ncov/index.html	www.cdc.gov	This is a trusted source from our government	True	True	True	True	True	True	True
+True	https://www.cdc.gov/coronavirus/2019-ncov/index.html	www.cdc.gov	It is from an official organization that deals with health issues and the site covers most of the topics listed.	True	True	True	False	True	True	False
+True	https://www.cdc.gov/coronavirus/2019-ncov/index.html	www.cdc.gov	This is the most trusted government site provide true information about Coronavirus	True	True	True	True	True	True	True
+False	https://www.cdc.gov/coronavirus/2019-ncov/index.html	www.cdc.gov	It shows the symptoms, and prevention.	True	True	True	True	False	False	False
+True	https://www.cdc.gov/coronavirus/2019-ncov/index.html	www.cdc.gov	Its the CDC website	True	True	True	False	False	False	False
+True	https://www.cdc.gov/coronavirus/2019-ncov/index.html	www.cdc.gov	The cdc is an unbiased government organization	True	True	True	False	False	False	False
+True	https://www.usa.gov/coronavirus	www.usa.gov	THIS SIT GOVERNMENT WEB SIT	True	False	False	False	False	False	False
+True	https://www.usa.gov/coronavirus	www.usa.gov	this is a government website	False	False	True	False	False	False	False
+True	https://www.usa.gov/coronavirus	www.usa.gov	Its a government page	True	False	True	True	True	True	False
+True	https://www.usa.gov/coronavirus	www.usa.gov	this site is the government website	True	True	True	False	False	False	False
+True	https://www.usa.gov/coronavirus	www.usa.gov	This is the government site	True	True	True	True	True	True	True
+True	https://www.usa.gov/coronavirus	www.usa.gov	https://www.nytimes.com/news-event/coronavirus	True	False	True	True	True	False	False
+False	https://www.nytimes.com/news-event/coronavirus	www.nytimes.com	this site is operated by the most trusted news company in this country	False	False	False	False	False	False	False
+True	https://www.cdc.gov/coronavirus/2019-nCov/index.html	www.cdc.gov	It's a gov, site.	True	True	True	False	False	False	False
+False	https://www.nytimes.com/news-event/coronavirus	www.nytimes.com	I trust this site because they have consistently been reporting accurate information. I like the long form approach (e.g. every article is pretty in depth) and they aren't trying to go for click bait.	True	True	True	True	False	False	False
+False	https://www.nytimes.com/news-event/coronavirus	www.nytimes.com	NY Times is a trusted page based on real facts	True	True	True	True	True	False	False
+True	https://www.cdc.gov/coronavirus/2019-nCov/index.html	www.cdc.gov	It is very trusted website as it is controlled by CDC and its a government website.	True	True	True	True	False	False	True
+True	https://www.cdc.gov/coronavirus/2019-nCov/index.html	www.cdc.gov	This is a government website.	True	False	True	False	False	False	False
+True	https://www.cdc.gov/coronavirus/2019-nCov/index.html	www.cdc.gov	CDC direct link to the top health and infectious diseases professionals in the world	True	True	True	False	False	False	False
+False	https://www.nytimes.com/news-event/coronavirus	www.nytimes.com	This site is operated by one of the most trusted news sites in America.	True	True	True	True	True	True	False
+True	https://www.cdc.gov/	www.cdc.gov	This is the website for the CDC and gives updates and guidelines for what to do	True	True	True	True	False	False	False
+True	https://www.cdc.gov/	www.cdc.gov	This site is a government site. I have always trusted the CDC for any health information I need to find out about. I used the CDC site as a resource of information throughout college.	True	True	True	True	False	False	False
+True	https://www.cdc.gov/	www.cdc.gov	Govt website	True	False	False	False	False	False	False
+False	https://coronavirus.jhu.edu/	coronavirus.jhu.edu	MOST TRUSTED M	False	False	True	False	False	False	False
+True	https://www.google.com/search?q=corona+virus+usa&oq=corona+virus+usa&aqs=chrome..69i57.8137j0j1&sourceid=chrome&ie=UTF-8	www.google.com	overall message collect the page and  daily updates	False	False	True	False	False	False	False
+True	https://www.google.com/search?q=corona+virus+usa&oq=corona+virus+usa&aqs=chrome..69i57.8137j0j1&sourceid=chrome&ie=UTF-8	www.google.com	easily shortlist view of the pages.	False	False	False	False	False	False	False
+False	https://www.google.com/covid19/	www.google.com	This is operated by google and its trusted int he whole world	True	True	True	True	True	True	False
+True	https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen	www.who.int	The WHO is the global standard for medical science.	True	True	True	False	False	False	False
+False	https://www.cnn.com/world/live-news/coronavirus-pandemic-04-24-20-intl/index.html	www.cnn.com	This is one of the bigger news website in the US. I think that they do a pretty good job to vet the information that they post, as well as being ubiassed.	True	True	True	True	True	True	True
+True	https://www.michigan.gov/coronavirus	www.michigan.gov	This is the official coronavirus response site for my state and they have been a reliable source so far, so I continue to trust the information they give me.	True	True	True	True	False	False	False
+False	https://www.google.com/covid19/	www.google.com	This is a hub I use for my wide ranging information past just my state. Google shows information from reliable sources and they have never given me a reason to doubt the information on this page as anything but correct.	True	True	True	True	False	False	False
+False	https://www.washingtonpost.com/coronavirus/	www.washingtonpost.com	People depend on this news company for information.	True	True	True	True	True	True	True
+True	https://www.washingtonpost.com/coronavirus/	www.washingtonpost.com	I visit this URL daily and I trust them.	False	True	True	True	False	False	False
+False	https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen	www.who.int	This site has a lot of information regarding important facts of coronavirus	True	True	True	True	False	False	False
+False	https://www.worldometers.info/coronavirus/	www.worldometers.info	How many people are infected across the world- updated often	True	False	False	False	False	False	False
+False	https://www.cnn.com/world/live-news/coronavirus-pandemic-04-24-20-intl/index.html	www.cnn.com	I like the breadth of this page as they provide lots of information where I can find it	True	True	True	True	True	True	True
+False	https://coronavirus.jhu.edu/	coronavirus.jhu.edu	https://www.nytimes.com/news-event/coronavirus	True	False	True	True	False	False	False
+False	https://www.worldometers.info/coronavirus/	www.worldometers.info	All country Country COVID-19 Information	False	False	True	False	False	False	False
+True	https://www.michigan.gov/coronavirus	www.michigan.gov	This is a state government website	True	True	True	True	True	True	True
+True	https://abcnews.go.com/	abcnews.go.com	Like this site and it is trusted	False	False	True	False	False	False	False
+False	https://www.nytimes.com/	www.nytimes.com	Like the site	False	False	False	True	False	False	False
+True	https://coronavirus.1point3acres.com/en	coronavirus.1point3acres.com	They get their information from the CDC	True	True	False	False	False	False	False
+False	https://www.cnn.com/specials/world/coronavirus-outbreak-intl-hnk	www.cnn.com	It has a reputation for being trustworthy.	True	True	True	True	True	False	False
+True	https://www.cnn.com/2020/04/24/health/us-coronavirus-friday/index.html	www.cnn.com	the us government sited the topics of trust.	False	True	False	True	True	True	False
+False	https://www.bbc.com/news/coronavirus	www.bbc.com	then all fox news channel and website is trust topic in available.	True	True	True	True	False	True	False
+False	https://www.who.int/health-topics/coronavirus	www.who.int	wordwide	False	False	False	False	False	False	False
+False	https://www.mountprospect.org/services/transparency-and-fact-check-portal/covid-19-information	www.mountprospect.org	This is the website for the city I live in	True	True	True	False	False	False	False
+True	https://www.google.com/search?q=corona+virus&oq=corona+virus+&aqs=chrome..69i57.6069j0j1&sourceid=chrome&ie=UTF-8	www.google.com	schools opening and online class are update here	False	False	False	False	False	False	False
+False	https://www.google.com/search?q=corona+virus+entertainment&oq=corona+virus+entertainment&aqs=chrome..69i57.8052j0j1&sourceid=chrome&ie=UTF-8	www.google.com	overall view of the webside.	False	False	False	False	True	True	False
+False	https://www.npr.org/sections/coronavirus-live-updates	www.npr.org	I love NPR and I think it's a great resource on a lot of things. It is unbiased and informational.	True	True	True	True	True	True	True
+False	https://www.cnn.com/2020/04/23/opinions/covid-19-secret-rule-breakers/index.html	www.cnn.com	It doesn't seem to be false.	False	False	False	False	True	True	False
+True	https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html	www.cdc.gov	It is from the cdc.	True	True	True	False	False	False	False
+False	https://www.osha.gov/SLTC/covid-19/	www.osha.gov	It helps employees and employers understand the work environment better as far a covid19 goes and how to stay healthy, safe and follow guidleines correctly.	False	True	True	True	False	False	False
+True	https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6	gisanddata.maps.arcgis.com	its very accurate	True	False	False	False	False	False	False
+False	https://news.yahoo.com/coronavirus	news.yahoo.com	great aggregate news site	True	False	False	True	False	False	False
+False	https://www.mayoclinic.org/diseases-conditions/coronavirus/symptoms-causes/syc-20479963	www.mayoclinic.org	The site is a trusted source for medical information.	True	True	True	False	False	False	False
+True	https://govstatus.egov.com/OR-OHA-COVID-19	govstatus.egov.com	this site is operated by the state government who I trust. They have no reason to lie to Oregonians and have been taking this seriously.	True	True	False	False	False	False	False
+True	https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6	www.arcgis.com	Johns Hopkins has been mentioned by numerous news sources for its credibility and constant updates. It covers worldwide Covid infections.	True	False	False	False	False	False	False
+False	https://www.politico.com/interactives/2020/number-of-coronavirus-cases-by-country/	www.politico.com	Politico takes its data directly from	True	False	False	False	False	False	False
+True	https://www.whoishostingthis.com/resources/credible-sources/	www.whoishostingthis.com	I TRUST THIS PAGE WITH THE INFORMATION THAT HE GIVE ABOUT  COVID-19	True	True	True	True	True	True	True
+False	https://opentextbc.ca/writingforsuccess/chapter/chapter-7-sources-choosing-the-right-ones/	opentextbc.ca	I TRUST THIS PAGE WITH THE INFORMATION THAT HE GIVE ABOUT  COVID-19	True	True	True	True	True	True	True
+False	https://ccconline.libguides.com/c.php?g=242130&p=1609638	ccconline.libguides.com	I TRUST THIS PAGE WITH THE INFORMATION THAT HE GIVE ABOUT  COVID-19	True	True	True	True	True	True	True
+False	https://www.reddit.com/r/COVID19/	www.reddit.com	It's a public forum where bias can be seen through more clearly	True	True	True	True	True	True	True
+True	https://www.cdc.gov/coronavirus/2019-nCoV/index.html	www.cdc.gov	This is one of the leading authorities on the information on infectious diseases.	True	True	True	True	False	False	True
+True	https://www.worldmeters.info	www.worldmeters.info	this site is generally accapted all over the world	True	True	True	True	False	False	False
+False	https://edition.cnn.com	edition.cnn.com	one of the best news agency in america	True	True	True	True	True	True	False
+False	https://www.wafb.com/	www.wafb.com	This is my local news channel. We have been getting news from this channel as long as I can remember. I can find tons of local information including info about schooling during this time of crisis.	True	True	True	True	True	True	True
+False	https://www.dailymail.co.uk	www.dailymail.co.uk	dailymail delivers standard news on everything	False	True	True	True	True	True	True
+False	https://www.factcheck.org/issue/coronavirus/	www.factcheck.org	It is a well-established website that fact checks the media. I went through the first page and found more than half the topics listed but it may well cover more or all of them.	False	True	True	True	False	False	True
+True	https://twitter.com/WHO	twitter.com	The World Trusts WHO which is a biggest organisation and found on biggest social media called Twitter	True	True	True	False	False	False	True
+False	https://www.cdc.gov/coronavirus/2019-ncov/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2Findex.html	www.cdc.gov	CDC is one of the familiar and trusted sites by the US Residents	True	True	True	False	False	False	False
+True	https://www.statnews.com/	www.statnews.com	They cover the coronavirus very well.	True	True	True	True	False	False	False
+False	https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/	www.latimes.com	California is the next epicenter of the virus.	True	True	True	True	True	True	True
+False	https://www.nytimes.com/news-events/coronavirus	www.nytimes.com	this site is operated by most news	True	True	True	False	False	False	False
+True	https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html?utm_source=nextdraft&utm_medium=email#/bda7594740fd40299423467b48e9ecf6	gisanddata.maps.arcgis.com	It's from Johns Hopkins, a trusted university. This was one of the first sites tracking COVID-19, even way before COVID-19 was declared a pandemic by WHO.	True	False	False	False	False	False	False
+True	https://covid19.healthdata.org/united-states-of-america	covid19.healthdata.org	I believe this was either developed by a Bill Gates organization -- or recommended by him, personally. I trust Bill Gates.	False	False	False	False	False	False	False
+False	https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/testing.html	www.cdc.gov	I trust the CDC for up-to-date information on COVID-19.	False	False	True	False	False	False	False
+False	https://www.ajc.com/news/coronavirus/	www.ajc.com	This is the most trusted news website for my state	True	True	True	True	True	True	True
+True	https://www.google.com/search?q=about+corona&oq=about+corona&aqs=chrome..69i57j69i61l3.6910j0j7&sourceid=chrome&ie=UTF-8#wptab=s:H4sIAAAAAAAAAONgVuLVT9c3NMwySk6OL8zJecTozS3w8sc9YSmnSWtOXmO04eIKzsgvd80rySypFNLjYoOyVLgEpVB1ajBI8XOhCvHsYuLzSE3MKckIrswtKMnPLV7EKp	www.google.com	this site covers all details	False	True	False	False	False	False	False
+False	https://www.google.com/search?q=about+corona&oq=about+corona&aqs=chrome..69i57j69i61l3.6910j0j7&sourceid=chrome&ie=UTF-8#wptab=s:H4sIAAAAAAAAAONgVuLVT9c3NMwySk6OL8zJecTozS3w8sc9YSmnSWtOXmO04eIKzsgvd80rySypFNLjYoOyVLgEpVB1ajBI8XOhCvHsYhLwSE3MKckIKUpNLMlNzSspXsQqlpxflJ-XWJZZVFqsUAKXAAAEZq0IiwAAAA	www.google.com	gives details	True	False	False	False	False	False	False
+True	https://www.mass.gov/resource/information-on-the-outbreak-of-coronavirus-disease-2019-covid-19	www.mass.gov	I follow this page because I trust them to provide quality and informed information about lots of realms of COVID issues	True	True	True	False	True	False	False
+True	https://www.health.state.mn.us/diseases/coronavirus/index.html	www.health.state.mn.us	It shows what's going on in my state	True	True	True	False	False	False	False
+True	https://www.goodrx.com/blog/coronavirus-covid-19-reliable-information-resources-updates/	www.goodrx.com	This is the site which gives accurate details.	False	False	True	False	False	False	False
+False	https://www.munsonhealthcare.org/blog/trusted-sources-for-the-new-coronavirus	www.munsonhealthcare.org	This is the most trusted web site	True	True	True	True	False	False	False
+False	https://www.ed.gov/category/keyword/coronavirus	www.ed.gov	Education policy during coronovirus	False	False	False	False	True	False	False
+True	https://www.ncsl.org/research/elections-and-campaigns/state-action-on-covid-19-and-elections.aspx	www.ncsl.org	Because this site is government site	True	True	True	True	True	True	True
+False	https://georgia.gov/covid-19-state-services-georgia/covid-19-taxes	georgia.gov	The site is operated by most trusted company in the country	True	True	True	True	True	True	True
+False	https://www.who.int/	www.who.int	Govt website	True	True	False	False	False	False	False
+True	https://www.google.com/search?q=GOVERNMENT+CONCERN+ABOUT+EDUCATION+DURING+COVID-19&oq=GOVERNMENT+CONCERN+ABOUT+EDUCATION+DURING+COVID-19+&aqs=chrome..69i57.30955j0j7&sourceid=chrome&ie=UTF-8	www.google.com	SATISFACTORY	False	False	False	False	False	False	False
+False	https://www.google.com/search?q=covid-19+symptoms+timeline&oq=COVID-19+SYMP&aqs=chrome.2.0j69i57j0l6.14517j1j9&sourceid=chrome&ie=UTF-8	www.google.com	GOOD INFORMATION	False	False	False	False	False	False	False
+True	https://www.google.com/covid19	www.google.com	Google uses only information from official and trusted resources.	True	True	True	True	True	True	True
+False	https://www.bing.com/covid/local/unitedstates?vert=newsvideos	www.bing.com	This site is run by Microsoft which is a trusted entity and uses reliable sources.	True	True	True	True	True	True	True
+False	https://www.nj.com/coronavirus/2020/04/this-new-map-shows-the-town-by-town-breakdown-of-coronavirus-cases-across-nj.html	www.nj.com	Its an unbiased tracker	True	False	True	False	False	False	False
+True	https://www.usa.gov/higher education	www.usa.gov	its worthy	False	False	False	False	True	False	False
+True	https://www.alexa.com	www.alexa.com	good	False	False	False	False	False	False	False
+True	https://www.who.int	www.who.int	good	False	False	False	False	False	False	False
+False	https://www.worldometers.info	www.worldometers.info	yes	False	False	False	False	True	True	False
+True	https://news.google.com/covid19/map?hl=en-US&gl=US&ceid=US:en	news.google.com	Daily Update COVID-19 Information	True	False	False	False	False	False	False
+True	https://www.npr.org/sections/coronavirus-live-updates/2020/04/24/843571171/under-no-circumstance-lysol-maker-officials-reject-trump-s-disinfectant-idea	www.npr.org	Is a respectable and well recognizable website. It has been here for years.	True	True	False	False	False	False	False
+False	https://www.cnn.com/us/live-news/us-coronavirus-update-04-24-20/index.html	www.cnn.com	CNN is well know by lots of people and is well trusted by them.	True	True	False	False	False	False	True
+True	https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html	www.cdc.gov	this is a gov site	True	True	True	False	False	False	False
+False	https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/nCOV2019.aspx	www.cdph.ca.gov	this is a gov site	True	True	False	False	False	False	False
+False	https://www.npr.org/series/812054919/the-coronavirus-crisis	www.npr.org	This site is a reliable news organization.	True	True	True	True	True	True	True

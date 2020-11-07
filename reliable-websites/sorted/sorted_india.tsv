@@ -1,0 +1,123 @@
+is_primary_source	url	domain	reason	category-infection_status	category-orevention_and_state_of_emergency_declaration	category-symptoms_medical_treatment_tests_and_other_medical_information	category-economics_and_welfare_policy	category-school_operation_and_online_classes	category-entertainment_and_sports	category-false_rumours
+True	https://www.worldometers.info/coronavirus/	www.worldometers.info	This give information about statistics of corona virus	True	True	True	True	True	True	True
+True	https://www.worldometers.info/coronavirus/	www.worldometers.info	because this is a globally trusted website	True	False	False	False	False	False	False
+False	https://www.worldometers.info/coronavirus/	www.worldometers.info	A lot of people follow the site	True	False	False	False	False	False	False
+False	https://www.worldometers.info/coronavirus/	www.worldometers.info	Up to date status	True	True	True	False	False	False	False
+True	https://www.worldometers.info/coronavirus/	www.worldometers.info	This is the common web site for all country	True	False	True	False	False	False	False
+False	https://www.worldometers.info/coronavirus/	www.worldometers.info	This site contains some very latest updates on the numbers and figures country wise and also statewise	True	True	True	False	False	False	False
+True	https://www.worldometers.info/coronavirus/	www.worldometers.info	They are First in Google Search	True	True	True	False	False	False	False
+True	https://www.worldometers.info/coronavirus/	www.worldometers.info	This is the best site as all information matches with what our government publish and validated by Indian government	True	True	False	False	False	False	False
+False	https://www.worldometers.info/coronavirus/	www.worldometers.info	Worldometer was voted as one of the best free reference websites by the American Library Association	True	True	False	True	False	False	False
+True	https://www.worldometers.info/coronavirus/	www.worldometers.info	This site provides worldwide corona infection numbers and other details. It is very reputed and trusteed website.	True	False	True	False	False	False	False
+False	https://www.worldometers.info/coronavirus/	www.worldometers.info	Displays useful statistics and graphs for all countries.	True	False	False	False	False	False	False
+True	https://www.mohfw.gov.in/	www.mohfw.gov.in	This site is a government website.	True	True	True	True	False	False	True
+False	https://www.mygov.in/covid-19/?cbps=1	www.mygov.in	More information related to the virus and videos and pdf files and very much informative	True	True	True	False	False	False	False
+True	https://www.mygov.in/covid-19/?cbps=1	www.mygov.in	It's a Government of India site, which also provide accurate information	True	True	True	False	True	True	False
+True	https://www.mygov.in/covid-19/?cbps=1	www.mygov.in	This site is run and maintained by  the government specially to engage with the people of India.	True	True	True	True	True	True	True
+True	https://www.mygov.in/covid-19/?cbps=1	www.mygov.in	This Site is the Government Website	False	False	True	False	False	False	False
+True	https://www.mohfw.gov.in/	www.mohfw.gov.in	This is the official page of the ministry of health and family welfare of government of India and is therefore reliable.	True	True	True	True	True	True	False
+True	https://www.mygov.in/covid-19/?cbps=1	www.mygov.in	This is the official government website for COVID-19 so it will be free of any rumours and provides true information and helplines.	True	True	True	True	True	False	True
+True	https://www.mygov.in/covid-19/?cbps=1	www.mygov.in	I can trust on the page because this is created by govt.	True	True	True	False	False	False	True
+False	https://www.mohfw.gov.in/	www.mohfw.gov.in	This also government owned one which we trust fully.	False	False	False	False	False	False	False
+True	https://www.mygov.in/covid-19/?cbps=1	www.mygov.in	THIS SITE IS GOV SIDE	True	True	True	False	False	False	False
+True	https://www.mygov.in/covid-19/?cbps=1	www.mygov.in	This is a Webpage of the Government of India dedicated to spread information regarding the Covid-19/Coronavirus.	True	True	True	True	True	True	True
+True	https://www.mohfw.gov.in/	www.mohfw.gov.in	This is the website of the Ministry of Health and Family Welfare, Government of India, a major resource for all official information regarding the government of India	True	True	True	True	True	True	True
+True	https://www.mohfw.gov.in/	www.mohfw.gov.in	Government of India site of official statistics and status of Pandemic	True	False	True	False	False	False	False
+True	https://www.mygov.in/covid-19/?cbps=1	www.mygov.in	This is government official website	True	True	True	True	True	True	True
+False	https://www.mohfw.gov.in/	www.mohfw.gov.in	This is also government site	True	True	False	True	False	False	True
+True	https://www.mohfw.gov.in/	www.mohfw.gov.in	This my government Family and healthcare ministry website.	True	True	True	True	False	False	False
+True	https://www.mohfw.gov.in/	www.mohfw.gov.in	This is official Government website. They cover almost all necessary information of public safety and well being.	True	True	True	True	False	False	True
+True	https://www.mohfw.gov.in/	www.mohfw.gov.in	This site is the Government of Health and family welfare Website	True	True	True	False	False	False	False
+True	https://www.mygov.in/covid-19/?cbps=1	www.mygov.in	This site is a government website	True	True	True	False	False	False	False
+True	https://www.mohfw.gov.in/	www.mohfw.gov.in	This is the Indian government official site related to COVID 19 facts and figures.	True	True	True	True	True	True	True
+False	https://www.mygov.in/covid-19/	www.mygov.in	This site is a government website.	True	True	True	True	False	False	True
+False	https://www.mygov.in/covid-19/	www.mygov.in	This is Indian Government Offical Website About Covid 19	True	True	True	False	False	False	True
+False	https://www.mygov.in/covid-19/	www.mygov.in	This site is my government official site	True	True	True	True	False	False	False
+True	https://www.mygov.in/covid-19/	www.mygov.in	{}	True	True	True	True	False	False	False
+True	https://www.mygov.in/covid-19/	www.mygov.in	This site is Indian govt website which provide all type of Corona details.	True	True	True	False	False	False	False
+True	https://www.mygov.in/covid-19/	www.mygov.in	This site is the government website	True	True	True	True	True	True	True
+False	https://www.covid19india.org/	www.covid19india.org	This site gives information about corona virus in India	True	True	True	True	True	True	True
+True	https://www.covid19india.org/	www.covid19india.org	JUST LIKE TO KNOW INFORMATION ABOUT COVID 19	True	True	True	True	False	False	False
+False	https://www.covid19india.org/	www.covid19india.org	Because this page created by govt.	True	False	False	False	False	False	False
+True	https://www.covid19india.org/	www.covid19india.org	This site is crowdsourced and provides Indian states infection numbers in details.	True	False	False	False	False	False	False
+True	https://www.covid19india.org/	www.covid19india.org	This is volunteer based unofficial website. But It is designed to show Covid-19 stats from various sourced based platforms such as reputed news agencies, official social media handles,  etc.	True	False	False	False	False	False	False
+True	https://www.mygov.in/covid-19	www.mygov.in	This site is a government Website	True	True	True	True	False	False	False
+True	https://www.mygov.in/covid-19	www.mygov.in	Its our government website which we trust wholly.	True	True	True	True	False	False	False
+True	https://www.who.int/emergencies/diseases/novel-coronavirus-2019	www.who.int	it is a WHO site	True	True	True	False	False	False	False
+True	https://www.who.int/emergencies/diseases/novel-coronavirus-2019	www.who.int	This site is who site and official site of cdc	True	True	True	True	False	False	False
+True	https://www.who.int/emergencies/diseases/novel-coronavirus-2019	www.who.int	Official website of the World Health Organization of the UN.	True	True	True	False	False	False	True
+False	https://www.mygov.in/covid-19	www.mygov.in	This site is official govt of India site for information, contacts and related information	True	True	False	True	False	False	False
+False	https://www.who.int/emergencies/diseases/novel-coronavirus-2019	www.who.int	The is site operated by WHO.	True	True	True	False	False	False	True
+True	https://www.mygov.in/covid-19	www.mygov.in	It is Indian Government's website.	True	False	True	False	False	False	False
+True	https://www.google.com/intl/en_in/covid19/	www.google.com	i trust the page	True	True	True	False	False	False	False
+False	https://www.google.com/intl/en_in/covid19/	www.google.com	it is a trusted company	True	True	True	True	False	False	False
+False	https://www.google.com/intl/en_in/covid19/	www.google.com	This is a webpage curated by Google which is a trusted source of Realtime information as well.	True	True	True	False	True	False	True
+True	https://news.google.com/covid19/map?hl=en-IN&gl=IN&ceid=IN:en	news.google.com	this is google undertaked website	True	False	False	False	False	False	False
+True	https://www.who.int/	www.who.int	This is Website world health organization website	True	True	True	False	False	False	False
+True	https://news.google.com/covid19/map?hl=en-IN&gl=IN&ceid=IN:en	news.google.com	Global update in this web page following some local (India) links	True	False	False	False	False	False	False
+False	https://www.coronavirus.gov/	www.coronavirus.gov	govt. site ,we can do trust on this site .all information about symptom and prevention are provided	True	True	True	True	True	True	True
+True	https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen	www.who.int	It's WHO site which provide most reliable and authentic information	True	True	True	False	False	False	False
+True	https://www.usa.gov/coronavirus	www.usa.gov	It's US Government site which gives most authentic information about my working country	True	True	True	True	True	True	True
+False	https://www.nytimes.com/news-event/coronavirus	www.nytimes.com	It's one of the most prestigious news agency and gives authentic information	True	False	False	True	False	False	False
+False	https://www.who.int/emergencies/diseases/novel-coronavirus-2019/media-resources/news	www.who.int	This is world health organizations website	True	True	True	True	False	False	True
+False	https://www.bbc.com/news/coronavirus	www.bbc.com	This site operated by a most trusted company.	True	True	True	False	False	False	False
+True	https://www.who.int/	www.who.int	This is an authorized international government site	False	True	True	True	False	False	False
+False	https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen	www.who.int	this website gives us update and instant informations	True	True	True	True	True	True	True
+True	https://www.usa.gov/coronavirus	www.usa.gov	Government Response to Coronavirus, COVID-19	False	False	True	False	False	False	False
+False	https://www.nytimes.com/news-event/coronavirus	www.nytimes.com	CORONAVIRUS RESOURCE CENTER	False	True	False	False	False	False	False
+True	https://files.eric.ed.gov/fulltext/ED509622.pdf	files.eric.ed.gov	this is enterneueur website	False	False	False	False	False	True	False
+False	https://files.eric.ed.gov/fulltext/ED509622.pdf	files.eric.ed.gov	one i can believe	False	False	False	False	True	False	False
+False	https://timesofindia.indiatimes.com/coronavirus	timesofindia.indiatimes.com	This website is operated by the Times of India, which is one of the most trusted news source in India	True	True	True	True	True	True	True
+False	https://www.bbc.com/news/coronavirus	www.bbc.com	This website is government website and it is a source for reliable information	True	True	True	True	True	True	True
+False	https://www.who.int/emergencies/diseases/novel-coronavirus-2019/media-resources/news	www.who.int	WHO is the most reputed agency.	True	True	False	True	False	False	False
+False	https://timesofindia.indiatimes.com/coronavirus	timesofindia.indiatimes.com	This is leading English newspaper in country and can be secondary source of information besides official Government statements.	True	True	True	True	False	True	True
+False	https://www.coronavirus.gov/	www.coronavirus.gov	it is operative by government	True	True	True	True	False	False	False
+False	https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html	www.cdc.gov	It is the website of CDC so authenticity of the news is guarenteed.	True	False	True	False	False	False	False
+True	https://www.prattlibrary.org/	www.prattlibrary.org	This is trusted	False	False	False	False	False	False	True
+False	https://www.who.int/emergencies/diseases/novel-coronavirus-2019/	www.who.int	This is government website	False	False	False	False	False	False	False
+False	https://www.elsevier.com/connect/coronavirus-information-center	www.elsevier.com	Use facts, not hype	True	True	True	False	False	False	False
+True	https://www.nga.org/coronavirus/	www.nga.org	This is trusted website	True	True	True	False	False	False	False
+True	https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/index.html	www.cdc.gov	this site is good and provide good information about corona virus . all information about infection and prevention are provided by this site .	True	True	True	True	True	True	True
+True	https://alexion.com/our-commitment/covid-19.	alexion.com	For too many online companies the About Us page is the elephant in the room, and often the most awkward thing to write.	False	False	False	False	False	False	False
+False	https://www.gov.uk/coronavirus	www.gov.uk	Writing great content is a choice. You can choose to put in the time and work required to create great content and build a prosperous brand.	False	False	False	False	False	False	False
+False	https://www.indiatoday.in/coronavirus	www.indiatoday.in	This site is operated by one of the most trusted news company in India	True	True	True	False	False	False	False
+False	https://timesofindia.indiatimes.com/india/covid-19-tally-crosses-23k-mark-heres-state-wise-update/articleshow/75341417.cms	timesofindia.indiatimes.com	SIMPLY LIKE TO KNOW INFORMATION ABOUT COVID 19	True	True	True	True	False	False	False
+False	https://economictimes.indiatimes.com/news/company/corporate-trends/covid-19-impact-will-be-felt-beyond-6-months-shows-ey-survey/articleshow/75084037.cms?from=mdr	economictimes.indiatimes.com	This site is media Organization	False	True	True	True	False	True	False
+True	https://www.va.gov/	www.va.gov	An official website of the United States government	True	False	True	False	False	False	False
+False	https://covid19.isciii.es/	covid19.isciii.es	This site is run by Ministry of Health Spain	True	True	True	False	False	False	False
+False	https://www.who.int/india/emergencies/novel-coronavirus-2019	www.who.int	This is the India specific page of the WHO which is the global forum related to health.	True	True	True	False	False	False	True
+False	https://www.who.int/health-topics/coronavirus#tab=tab_1	www.who.int	WHO is well known organisation.	True	True	True	False	False	False	True
+True	https://www.who.int/blueprint/priority-diseases/key-action/novel-coronavirus/en/	www.who.int	because this is WHO website	True	True	True	False	False	False	False
+False	https://www.prattlibrary.org/research/tools/index.aspx?cat=108&id=8307	www.prattlibrary.org	this have very usefull content, there.	True	True	True	False	False	False	False
+False	https://www.covid19india.org	www.covid19india.org	This is an trusted government site and update accurate locality wise infection status and other measures in my country.	True	False	False	False	False	False	False
+False	https://openwho.org/channels/covid-19	openwho.org	THIS SITE OPERATES ALL	True	True	True	False	False	False	False
+False	https://www.livemint.com/topic/coronavirus	www.livemint.com	This is the only site wherein I always receive most updated and correct information.	False	True	True	True	False	False	True
+True	https://webcache.googleusercontent.com/search?q=cache:Q7S18eyhhpgJ:https://www.mohfw.gov.in/	webcache.googleusercontent.com	this website is very useful to get all informations in one site	True	True	True	True	True	True	True
+True	https://www.who.int/news-room/commentaries/detail/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations	www.who.int	This site is who website	True	True	True	False	False	False	False
+False	https://www.pcrs-uk.org/coronavirus	www.pcrs-uk.org	This is government website	True	False	True	False	False	False	False
+True	https://www.ncbi.nlm.nih.gov/pubmed/19534953	www.ncbi.nlm.nih.gov	this is the govt website	True	False	False	False	False	False	False
+True	https://www.whitehouse.gov/presidential-actions/proclamation-declaring-national-emergency-concerning-novel-coronavirus-disease-covid-19-outbreak/	www.whitehouse.gov	this is gov website	False	True	False	False	False	False	False
+False	https://www.rxlist.com/diseases-conditions-medical-tests/article.htm	www.rxlist.com	true	False	False	True	False	False	False	False
+False	https://www.jstor.org/stable/2549766	www.jstor.org	the host is one of the important	False	False	False	True	False	False	False
+False	https://www.ndtv.com/coronavirus	www.ndtv.com	This website belongs to NDTV, a reputed news channel in India	True	True	True	True	True	True	True
+True	https://covidindia.org/	covidindia.org	this the site of gorverment	True	True	True	False	False	False	False
+True	https://timesofindia.indiatimes.com/coronavirus?from=mdr	timesofindia.indiatimes.com	Trusted site from long time with accurate news on covid 19	True	True	True	False	False	True	False
+False	https://app.developer.here.com/coronavirus/	app.developer.here.com	I use it to compare with date weather is correct or not. I commonly use it normally	True	True	True	False	False	False	False
+True	https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic	en.wikipedia.org	This site is trustworthy website and source for reliable information	True	True	True	True	True	True	True
+False	https://economictimes.indiatimes.com/coronavirus	economictimes.indiatimes.com	This news site will provide all the news relevant to corona virus under a specified corona virus category.	True	True	True	True	False	False	False
+False	https://news.abplive.com/coronavirus-covid-19	news.abplive.com	This site is operated by one of trusted NEWS TV channel.	True	True	True	True	False	False	False
+False	https://www.channelnewsasia.com/news/interactives	www.channelnewsasia.com	It displays Coronavirus data of different countries fairly accurately.	True	False	False	False	False	False	False
+True	https://pib.gov.in/indexd.aspx	pib.gov.in	This is official Government  Press information Bureau.	False	True	True	True	False	False	True
+True	https://icmr.nic.in/content/covid-19	icmr.nic.in	It is the prime medical research Government body of the country.	True	True	True	False	False	False	False
+False	http://ima-india.org/ima/pages.php?id=37&tempid=1587712468	ima-india.org	This is maintained by association of doctors of the country.	True	True	True	False	False	False	False
+False	https://timesofindia.indiatimes.com/india/coronavirus-in-india-live-updates-total-number-of-corona-cases-in-maharashtra-delhi-rajasthan-rises/liveblog/75336989.cms	timesofindia.indiatimes.com	This site is Times of India media Website	True	False	True	False	False	True	True
+True	https://www.nih.gov/	www.nih.gov	this is a government website that is why i put up this one.	True	True	True	False	False	False	False
+False	https://www.dhs.gov/	www.dhs.gov	This is a government website that is why i have put up this one.	True	True	True	True	False	False	False
+False	https://graphics.reuters.com/	graphics.reuters.com	it is operated by very trusted agency	True	True	True	True	False	False	False
+False	https://www.thehindu.com/	www.thehindu.com	This is one of the trusted News paper	True	True	False	True	True	False	False
+True	https://www.unicef.org/coronavirus/covid-19	www.unicef.org	this is the child help unicef website.	False	True	True	False	False	False	False
+False	https://news.microsoft.com/on-the-issues/2020/04/10/bing-linkedin-covid-19/	news.microsoft.com	this site is operated by Microsoft since its name is always a trust we can rely on this website for more accurate information.	False	True	True	True	False	False	False
+True	https://www.worldometers.info/coronavirus/country/us/	www.worldometers.info	This website updates much faster about the disease.	True	True	False	True	False	False	True
+False	https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html	www.nytimes.com	This is the most trusted news center in USA.	True	True	False	True	False	True	True
+False	https://timesofindia.indiatimes.com/india/coronavirus-updates-virus-battleground-in-indias-biggest-slum/articleshow/75311412.cms	timesofindia.indiatimes.com	This site is operated by the most trusted news company in this country	True	True	True	True	True	True	True
+False	https://www.who.int/india/emergencies/india-situation-report	www.who.int	WHO site is the most trusted site in the World related to world health issues.	True	True	True	False	True	False	False

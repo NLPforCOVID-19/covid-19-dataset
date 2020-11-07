@@ -1,0 +1,128 @@
+is_primary_source	url	domain	reason	category-infection_status	category-orevention_and_state_of_emergency_declaration	category-symptoms_medical_treatment_tests_and_other_medical_information	category-economics_and_welfare_policy	category-school_operation_and_online_classes	category-entertainment_and_sports	category-false_rumours
+True	https://www.gouvernement.fr/info-coronavirus	www.gouvernement.fr	My government website	True	True	True	True	True	True	True
+True	https://www.gouvernement.fr/info-coronavirus	www.gouvernement.fr	this site seems to be an official governement website	True	True	True	False	True	False	False
+True	https://www.gouvernement.fr/info-coronavirus	www.gouvernement.fr	This website appears to tv and is gouvernement website	False	True	False	False	False	False	False
+True	https://www.gouvernement.fr/info-coronavirus	www.gouvernement.fr	This is French government website.	False	True	True	False	False	False	False
+False	https://www.gouvernement.fr/info-coronavirus	www.gouvernement.fr	The site is operated by the government and has up to date official information	True	True	True	True	True	True	True
+True	https://www.gouvernement.fr/info-coronavirus	www.gouvernement.fr	the site is gouvernement website	True	True	True	True	True	True	False
+True	https://www.gouvernement.fr/info-coronavirus	www.gouvernement.fr	This is the government website	True	True	True	True	True	False	False
+True	https://www.gouvernement.fr/info-coronavirus	www.gouvernement.fr	This is the government website	True	True	True	False	True	False	False
+True	https://www.gouvernement.fr/info-coronavirus	www.gouvernement.fr	THIS SITE IS THE GOVERNEMENT WEB SITE	True	True	True	True	False	False	True
+True	https://www.gouvernement.fr/info-coronavirus	www.gouvernement.fr	This is the French government website	True	True	True	True	True	True	True
+True	https://www.gouvernement.fr/info-coronavirus	www.gouvernement.fr	official news from french government	True	True	True	False	False	False	True
+True	https://www.gouvernement.fr/info-coronavirus	www.gouvernement.fr	This is the French government website.	False	True	True	True	True	True	False
+True	https://www.gouvernement.fr/info-coronavirus	www.gouvernement.fr	It is the government website	False	True	True	False	False	False	False
+True	https://www.gouvernement.fr/info-coronavirus	www.gouvernement.fr	This site is a gouvernment website	True	True	True	True	True	False	False
+True	https://www.gouvernement.fr/info-coronavirus	www.gouvernement.fr	Offical french government website	True	True	True	False	False	False	False
+True	https://www.gouvernement.fr/info-coronavirus	www.gouvernement.fr	Government website	True	True	True	False	True	False	False
+True	https://www.gouvernement.fr/info-coronavirus	www.gouvernement.fr	It's a government page	False	True	False	True	True	False	False
+True	https://www.gouvernement.fr/info-coronavirus	www.gouvernement.fr	This is a governement website	True	True	True	True	True	True	False
+True	https://www.gouvernement.fr/info-coronavirus	www.gouvernement.fr	this is the gouvernement web site	False	False	False	False	False	False	False
+True	https://www.gouvernement.fr/info-coronavirus	www.gouvernement.fr	This site is the government website.	True	True	True	False	False	False	False
+True	https://www.gouvernement.fr/info-coronavirus	www.gouvernement.fr	This is the governement's website	True	True	True	True	False	False	True
+True	https://www.gouvernement.fr/info-coronavirus	www.gouvernement.fr	This is the government website	True	True	True	True	True	True	False
+True	https://www.gouvernement.fr/info-coronavirus	www.gouvernement.fr	it's official government's website about covid-19 that provides current situation and information about it	True	True	True	True	False	False	True
+True	https://www.gouvernement.fr/info-coronavirus	www.gouvernement.fr	official news from french government	True	True	True	False	False	False	False
+False	https://www.gouvernement.fr/info-coronavirus	www.gouvernement.fr	map with city infect	True	True	False	False	False	False	False
+True	https://www.gouvernement.fr/info-coronavirus	www.gouvernement.fr	this is a French government site. this is the official site for news on COVID-19 in France	True	True	True	True	True	True	True
+False	https://www.gouvernement.fr/info-coronavirus	www.gouvernement.fr	The government keeps up to date information available. And it is also official.	True	True	True	True	True	True	False
+True	https://www.gouvernement.fr/info-coronavirus	www.gouvernement.fr	government official website	True	True	True	True	True	True	True
+False	https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019	www.who.int	This is oms website and I think is true	True	True	False	False	False	False	False
+True	https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019	www.who.int	It is the World Health Organization, I can't think of a most trustworthy site.	True	True	True	True	True	True	True
+True	https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019	www.who.int	This site is the website of WHO	True	True	True	False	False	False	False
+True	https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019	www.who.int	most predominant heath information website	True	True	True	True	False	True	True
+True	https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019	www.who.int	I trust this page as they are the main medical organization in the world.	True	True	True	True	True	True	False
+True	https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019	www.who.int	Because it is from OMS ( organisation mondial de la santé)	True	True	True	False	False	False	False
+False	https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019	www.who.int	Health worldwide organization	True	True	True	True	True	True	True
+True	https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde	www.santepubliquefrance.fr	because its an official site	True	True	True	False	False	False	True
+True	https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde	www.santepubliquefrance.fr	government website	True	True	False	False	False	False	False
+False	https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde	www.santepubliquefrance.fr	government website	True	True	False	False	False	False	False
+False	https://www.lemonde.fr/coronavirus-2019-ncov/	www.lemonde.fr	This newspaper is very trusted in France.	True	False	False	True	True	True	True
+False	https://www.lemonde.fr/coronavirus-2019-ncov/	www.lemonde.fr	This page is edited by one of the main newspaper in France,m	True	True	True	True	True	True	True
+False	https://www.lemonde.fr/coronavirus-2019-ncov/	www.lemonde.fr	Main news site from France	True	True	True	True	False	True	True
+False	https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde	www.santepubliquefrance.fr	This site is handle by the health brand of the governement	True	True	True	True	True	True	False
+False	https://www.lemonde.fr/coronavirus-2019-ncov/	www.lemonde.fr	This is also one of our best newspapers.	True	True	True	True	True	True	True
+False	https://www.lemonde.fr/coronavirus-2019-ncov/	www.lemonde.fr	This is a well renowned news website in my country	True	True	True	True	True	True	True
+False	https://www.lemonde.fr/coronavirus-2019-ncov/	www.lemonde.fr	this website belongs to one of the most know and trusted journals in France	True	True	True	True	True	True	True
+True	https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde	www.santepubliquefrance.fr	official gouvernment web site in France	True	True	True	True	True	True	True
+True	https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde	www.santepubliquefrance.fr	its for prevention	True	True	True	False	False	False	False
+False	https://www.worldometers.info/coronavirus/	www.worldometers.info	It's official	True	False	False	False	False	False	False
+False	https://www.francetvinfo.fr/sante/maladie/coronavirus/	www.francetvinfo.fr	Its from a trusted government news site	True	False	False	True	True	True	False
+False	https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/	solidarites-sante.gouv.fr	THIS IS FOR THE HEALTH MINISTERY WEB SITE	True	True	True	True	False	False	True
+True	https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/	solidarites-sante.gouv.fr	french government website about health concerns	True	True	True	True	True	True	True
+True	https://www.worldometers.info/coronavirus/	www.worldometers.info	it gives accurate informations.	True	True	True	True	True	True	False
+True	https://www.worldometers.info/coronavirus/	www.worldometers.info	This is a well know site which produces world information in an unbiased way	True	True	True	False	False	False	False
+False	https://www.francetvinfo.fr/sante/maladie/coronavirus/	www.francetvinfo.fr	This is one the most trusted news company in France.	True	True	True	True	True	True	True
+False	https://www.francetvinfo.fr/sante/maladie/coronavirus/	www.francetvinfo.fr	{}	False	True	True	True	False	False	False
+True	https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/	solidarites-sante.gouv.fr	Official website from health Minister	False	True	True	True	True	True	True
+False	https://www.inserm.fr/actualites-et-evenements/actualites/covid-19-point-information-inserm	www.inserm.fr	This is the website of the Nationnal Institute of Health and Medical Research	True	True	True	True	True	True	True
+False	https://www.inserm.fr/actualites-et-evenements/actualites/covid-19-point-information-inserm	www.inserm.fr	This site is about science	False	True	True	False	True	False	False
+True	https://www.cdc.gov/coronavirus/2019-ncov/index.html	www.cdc.gov	It's official	True	True	True	False	False	False	False
+False	https://www.nytimes.com/news-event/coronavirus	www.nytimes.com	https://www.nytimes.com/news-event/coronavirus	True	True	True	False	True	False	False
+False	https://www.nytimes.com/news-event/coronavirus	www.nytimes.com	https://www.nytimes.com/news-event/coronavirus	True	True	True	False	True	False	False
+True	https://www.cdc.gov/coronavirus/2019-ncov/index.html	www.cdc.gov	This is a governement website	True	True	True	False	False	False	False
+True	https://www.ameli.fr/assure/covid-19	www.ameli.fr	social security official website	True	True	True	False	False	True	False
+False	https://www.20minutes.fr/dossier/coronavirus	www.20minutes.fr	official webside who wait before post something and people can asck about fake news	True	False	False	True	True	True	True
+False	https://news.google.com/covid19/map?hl=fr&gl=FR&ceid=FR:fr	news.google.com	This site is operated by google with frequent updates	True	False	False	False	False	False	False
+True	https://www.pasteur.fr/fr/centre-medical/fiches-maladies/maladie-covid-19-nouveau-coronavirus	www.pasteur.fr	Official website of Institut Pasteur about new informations to the virus	False	False	True	False	False	False	False
+False	https://www.who.int/fr	www.who.int	this is the web site of who	False	True	True	False	False	False	False
+False	https://news.google.com/covid19/map?hl=fr&gl=FR&ceid=FR:fr	news.google.com	it gives all information from Google data about Covid 19	False	True	True	False	False	False	False
+False	https://www.20minutes.fr/dossier/coronavirus	www.20minutes.fr	official webside who wait before post something and people can asck about fake news	True	True	False	True	True	True	True
+True	https://www.who.int/fr	www.who.int	I can't think of a most trustworthy site to gather information.	True	True	True	True	False	False	False
+True	https://www.ameli.fr/assure/covid-19	www.ameli.fr	social security official website	True	True	True	True	True	True	False
+False	https://www.pasteur.fr/fr/centre-medical/fiches-maladies/maladie-covid-19-nouveau-coronavirus	www.pasteur.fr	Health worldwide organization	True	False	True	True	False	False	True
+True	https://coronavirus.jhu.edu/news	coronavirus.jhu.edu	The John Hopkins University provides quality and is well known for its relevance.	True	True	True	True	True	False	True
+False	https://www.theguardian.com/world/coronavirus-outbreak	www.theguardian.com	the guardian is a serious media that covers all coronavirus events. It analyses the virus worldwide.	True	True	True	True	True	True	True
+False	https://www.francetvinfo.fr/sante/maladie/coronavirus/direct-coronavirus-suivez-les-dernieres-informations-sur-la-pandemie-en-france-et-dans-le-monde_3968389.html	www.francetvinfo.fr	this site is operated by a recognised radio in france	True	True	True	False	True	False	True
+False	https://www.linternaute.com/actualite/guide-vie-quotidienne/2462477-direct-coronavirus-en-france-le-covid-19-un-virus-immortel-un-dernier-bilan-positif/	www.linternaute.com	its one of the biggest news websites currently	True	True	False	True	True	False	False
+False	https://news.yahoo.com/	news.yahoo.com	This site is a big site	True	True	True	True	True	False	False
+True	https://sante.journaldesfemmes.fr/maladies/	sante.journaldesfemmes.fr	I've been reading articles on this website before the corona virus outbreak	True	False	True	False	False	True	False
+True	https://www.santemagazine.fr/sante/maladies/maladies-infectieuses/maladies-virales/	www.santemagazine.fr	I've been reading articles on this website before the corona virus outbreak	True	False	True	False	False	False	False
+False	https://www.doctissimo.fr/sante/epidemie/coronavirus-chinois/	www.doctissimo.fr	I've been reading articles on this website before the corona virus outbreak	True	True	True	False	False	False	False
+False	http://www.leparisien.fr/coronavirus/	www.leparisien.fr	This is a famous information website in France	True	True	True	True	True	False	False
+True	https://www.facebook.com/ramy.djait	www.facebook.com	Your topics are interesting and awareness	False	True	True	True	True	True	False
+False	https://www.facebook.com/bachir.benyoucef	www.facebook.com	Your topics are interesting and awareness	False	True	True	True	True	True	False
+True	https://coronavirus.jhu.edu/map.html?utm_source=jhu_properties&utm_medium=dig_link&utm_content=ow_hubinfo&utm_campaign=jh20	coronavirus.jhu.edu	well known hospital	True	False	False	False	False	False	False
+False	https://www.lemonde.fr/planete/article/2020/05/02/coronavirus-dans-le-monde-deconfinement-a-des-rythmes-varies-aux-etats-unis-qui-misent-sur-le-remdesivir_6038412_3244.html	www.lemonde.fr	well known journal	False	True	False	False	False	False	False
+True	https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019?gclid=CjwKCAjw5Ij2BRBdEiwA0Frc9ZQgoa45bqN99a8WGf0wLweEftK_-3H0lA9HW6ohaUWSLx4q0JE1RxoC7EAQAvD_BwE	www.who.int	because it's from the world health organization	True	True	False	False	True	False	False
+False	https://www.newsguardtech.com/coronavirus-misinformation-tracking-center/	www.newsguardtech.com	because it gives proves	True	True	False	True	False	False	False
+False	https://www.lejdd.fr/coronavirus	www.lejdd.fr	This is site is owned by a trusted newspaper in France	True	True	True	True	True	True	True
+True	https://www.usa.gov/coronavirus	www.usa.gov	https://www.usa.gov/coronavirus	True	True	True	False	True	False	False
+False	https://www.dailynews.com/tag/coronavirus/	www.dailynews.com	This site is a well-known media website	True	True	False	False	False	True	True
+False	https://www.mediterranee-infection.com/tout-sur-le-coronavirus/	www.mediterranee-infection.com	research institute	True	True	True	False	False	False	False
+False	https://fr.unesco.org/covid19/educationresponse	fr.unesco.org	International NGO	True	True	False	True	True	False	True
+False	https://www.doctissimo.fr/sante/epidemie/coronavirus-chinois	www.doctissimo.fr	health pan national webzine	True	True	True	False	True	True	True
+True	https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6	www.arcgis.com	This is a page with many informations.	True	False	False	False	False	False	False
+True	https://www.gouvernement.fr/info-coronavirus/carte-et-donnees	www.gouvernement.fr	It's made by the government	True	True	False	False	True	False	False
+True	https://ametice.univ-amu.fr/	ametice.univ-amu.fr	My university uses it.	False	False	False	False	True	False	False
+False	https://www.liberation.fr/checknews/	www.liberation.fr	It is made by professional journalist that fact-check the informations.	False	False	False	False	False	False	True
+True	https://www.service-public.fr/	www.service-public.fr	This is an official website, so I know it can be trusted.	False	False	False	False	False	False	False
+False	https://www.egora.fr/	www.egora.fr	This site is used by health professionals.	False	False	False	False	False	False	False
+False	https://mobile.francetvinfo.fr/sante/maladie/coronavirus/coronavirus-moins-de-10-de-la-population-infectee-dans-les-deux-regions-francaises-les-plus-touchees-selon-une-nouvelle-etude_3962919.html#xtref=acc_dir&xtref=https://www.google.com/	mobile.francetvinfo.fr	Franceinfo is a large and well established news site	True	True	True	False	False	False	False
+False	https://www.francetvinfo.fr/sante/maladie/coronavirus/infographies-covid-19-morts-hospitalisations-age-malades-l-evolution-de-l-epidemie-en-france-et-dans-le-monde-en-cartes-et-graphiques.html	www.francetvinfo.fr	Information website much famous in France (public)	True	True	True	True	True	False	False
+True	https://www.cascoronavirus.fr/	www.cascoronavirus.fr	It uses data from France Public Health	True	True	True	True	True	True	True
+False	https://www.lefigaro.fr/	www.lefigaro.fr	It is one of the most trusted news from France	True	True	True	True	True	True	True
+False	https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/	www.santepubliquefrance.fr	The official public health website	True	True	True	False	False	False	False
+False	https://aatishb.com/covidtrends/	aatishb.com	The code is open source and the data come from reliable source	True	False	False	False	False	False	False
+False	https://www.lemonde.fr/les-decodeurs/	www.lemonde.fr	It is a trusted news paper	False	False	False	False	False	False	True
+False	https://www.gouvernement.fr/info-coronavirus/comprendre-le-covid-19	www.gouvernement.fr	A government website	False	False	True	False	False	False	False
+True	https://news.google.com/covid19/map?hl=fr&gl=FR&ceid=FR%3Afr	news.google.com	first, it belongs to Google, so I don't care about the precision of the information published, the It gives the Numbre of infections, death and recouverd case over the world ty by city, then, I It give a new statsitics about the COVID-19, It's easy to understand	True	False	False	False	False	False	False
+False	https://www.worldometers.info/coronavirus/?fbclid=IwAR03go4BlRiDqlO1QRukXizLK7oAtLZd4cjG15rwzmqPHDvPMElnniD1jD8	www.worldometers.info	the informations published on this website can be done by anyone	True	False	False	False	False	False	False
+False	https://www.cdc.gov/coronavirus/general-information.html	www.cdc.gov	it is the most trusted company in united states.	False	False	False	False	False	False	False
+True	https://dashboard.covid19.data.gouv.fr/vue-d-ensemble?location=FRA	dashboard.covid19.data.gouv.fr	This is a government website	True	False	True	True	False	False	False
+False	https://www.bbc.co.uk/news	www.bbc.co.uk	This is a trusted impartial, award winner news site.	True	True	True	True	True	True	True
+False	https://www.lemonde.fr/planete/live/2020/05/25/coronavirus-en-direct-le-gouvernement-prepare-la-suite-du-deconfinement_6040629_3244.html	www.lemonde.fr	This site is operated by the most trusted news company in France.	True	True	True	True	True	True	True
+False	https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus	www.santepubliquefrance.fr	Because it is always updated and give true informations.	True	True	True	False	False	False	False
+True	https://www.gouvernement.fr/info-coronavirus#xtor=SEC-3-GOO-[{adgroup}]-[425081976928]-search-[le%20gouvernement%20fran%C3%A7ais]	www.gouvernement.fr	this site is the government website	True	True	True	True	True	True	False
+False	https://coronavirus.jhu.edu/	coronavirus.jhu.edu	this map gives us data from all around the world about infection status	True	False	False	False	False	False	False
+True	https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen	www.who.int	this is the first website to cover infection status	True	True	True	True	False	True	True
+False	https://www.gouvernement.fr/en/coronavirus-covid-19	www.gouvernement.fr	this the official page of government of France where they cover all the above tops	True	True	True	True	True	True	True
+True	https://www.iledefrance.ars.sante.fr/	www.iledefrance.ars.sante.fr	it's a offical source of information	True	False	True	False	False	False	False
+False	https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6	gisanddata.maps.arcgis.com	it's a global map for infection case by country	True	False	False	False	False	False	False
+False	https://www.worldometers.info/coronavirus/#countries	www.worldometers.info	This site is providing an overall status of the spread of the virus and linking to reliable gouv sources	True	True	True	True	True	True	True
+True	https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public	www.who.int	Credibility is the most important feature of this blog	True	False	False	False	False	False	False
+False	https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public	www.who.int	Credibility is the most important feature of this blog	False	False	True	False	False	False	False
+True	https://twitter.com/minsolisante/status/1258095805883351041	twitter.com	official page for france	True	True	True	True	False	False	False
+False	https://twitter.com/franceinfo	twitter.com	official for france news	True	True	False	False	False	False	False
+False	https://www.santepubliquefrance.fr/	www.santepubliquefrance.fr	the site which gives correct information and which has the most credibility in France	True	True	True	True	True	True	True
+False	https://www.allodocteurs.fr/maladies/maladies-infectieuses-et-tropicales/coronavirus/	www.allodocteurs.fr	health pan national webzine	True	True	True	True	False	True	False
